@@ -28,4 +28,4 @@ This project analyzes 1,000 online retail transactions using SQL to uncover sale
 
 ## Project Files
 
-
+-<a herf="https://github.com/indhuindhu6302-bit/online_retail_sql/blob/main/sal%20online%20retail%20query.sql">query</a>
