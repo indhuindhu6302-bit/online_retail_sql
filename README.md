@@ -26,6 +26,19 @@ This project analyzes 1,000 online retail transactions using SQL to uncover sale
 -Which products have the lowest sales
 
 
-## Project Files
+# Project Files
 
 -<a herf="https://github.com/indhuindhu6302-bit/online_retail_sql/blob/main/sal%20online%20retail%20query.sql">query</a>
+
+# process
+Imported retail sales data into MySQL, performed data cleaning, executed SQL queries to analyze sales performance and customer behavior, generated business insights, and visualized results through dashboards for effective decision-making.
+
+# Key Insights
+- Identified top-selling products and categories.
+- Analyzed customer purchasing behavior.
+- Evaluated country-wise sales performance.
+- Tracked monthly revenue trends.
+- Generated actionable business insights using SQL.
+
+# Conclusion
+This project demonstrates SQL skills including data cleaning, aggregation, filtering, grouping, and business reporting. The insights can help businesses optimize sales strategies and improve decision-making.
