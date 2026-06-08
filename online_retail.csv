@@ -1,0 +1,1001 @@
+InvoiceNo,StockCode,ProductName,Category,Quantity,UnitPrice,TotalSales,InvoiceDate,CustomerID,CustomerName,Country,PaymentMethod
+INV100001,P002,Keyboard,Electronics,1,25.5,25.5,2025-05-21 07:14:00,1189,Customer_1189,USA,Credit Card
+INV100002,P009,Bluetooth Speaker,Electronics,2,39.99,79.98,2025-08-05 01:01:00,1151,Customer_1151,India,Debit Card
+INV100003,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-01-14 17:12:00,1154,Customer_1154,Germany,Net Banking
+INV100004,P007,Monitor,Electronics,4,150.0,600.0,2025-10-29 08:51:00,1114,Customer_1114,India,Debit Card
+INV100005,P007,Monitor,Electronics,6,150.0,900.0,2025-03-21 06:48:00,1071,Customer_1071,UK,Credit Card
+INV100006,P002,Keyboard,Electronics,7,25.5,178.5,2025-07-03 11:38:00,1024,Customer_1024,UK,Credit Card
+INV100007,P008,Power Bank,Accessories,9,29.99,269.91,2025-07-13 02:35:00,1031,Customer_1031,UK,Net Banking
+INV100008,P006,Webcam,Electronics,10,55.0,550.0,2025-12-27 02:02:00,1049,Customer_1049,Germany,Debit Card
+INV100009,P005,Headphones,Electronics,2,45.99,91.98,2025-02-21 12:17:00,1059,Customer_1059,Canada,UPI
+INV100010,P003,USB Cable,Accessories,6,5.99,35.94,2025-04-18 21:17:00,1090,Customer_1090,Germany,Credit Card
+INV100011,P010,Desk Lamp,Home,3,22.5,67.5,2025-05-06 05:29:00,1136,Customer_1136,Canada,UPI
+INV100012,P009,Bluetooth Speaker,Electronics,4,39.99,159.96,2025-06-16 01:14:00,1175,Customer_1175,India,UPI
+INV100013,P007,Monitor,Electronics,5,150.0,750.0,2025-04-19 18:56:00,1016,Customer_1016,Germany,UPI
+INV100014,P004,Laptop Stand,Accessories,8,35.0,280.0,2025-11-26 14:09:00,1101,Customer_1101,UK,Debit Card
+INV100015,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-05-15 23:37:00,1137,Customer_1137,Canada,Net Banking
+INV100016,P007,Monitor,Electronics,6,150.0,900.0,2025-03-12 16:31:00,1056,Customer_1056,India,Credit Card
+INV100017,P002,Keyboard,Electronics,3,25.5,76.5,2025-03-23 21:27:00,1160,Customer_1160,Australia,Credit Card
+INV100018,P007,Monitor,Electronics,7,150.0,1050.0,2025-08-28 16:16:00,1152,Customer_1152,Australia,Credit Card
+INV100019,P002,Keyboard,Electronics,9,25.5,229.5,2025-05-17 20:21:00,1192,Customer_1192,India,UPI
+INV100020,P007,Monitor,Electronics,3,150.0,450.0,2025-01-02 23:56:00,1116,Customer_1116,Germany,UPI
+INV100021,P009,Bluetooth Speaker,Electronics,3,39.99,119.97,2025-02-24 20:19:00,1129,Customer_1129,Germany,Net Banking
+INV100022,P010,Desk Lamp,Home,4,22.5,90.0,2025-07-11 05:34:00,1039,Customer_1039,Australia,Credit Card
+INV100023,P010,Desk Lamp,Home,6,22.5,135.0,2025-01-10 03:59:00,1125,Customer_1125,UK,UPI
+INV100024,P004,Laptop Stand,Accessories,1,35.0,35.0,2025-10-18 02:05:00,1061,Customer_1061,Germany,PayPal
+INV100025,P002,Keyboard,Electronics,9,25.5,229.5,2025-03-06 04:42:00,1196,Customer_1196,Canada,Net Banking
+INV100026,P003,USB Cable,Accessories,5,5.99,29.95,2025-11-07 13:13:00,1135,Customer_1135,Australia,Debit Card
+INV100027,P005,Headphones,Electronics,7,45.99,321.93,2025-11-29 11:28:00,1171,Customer_1171,Australia,PayPal
+INV100028,P002,Keyboard,Electronics,4,25.5,102.0,2025-02-02 10:01:00,1057,Customer_1057,Australia,Net Banking
+INV100029,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-01-04 02:45:00,1056,Customer_1056,Germany,Credit Card
+INV100030,P004,Laptop Stand,Accessories,2,35.0,70.0,2025-06-19 02:32:00,1008,Customer_1008,USA,UPI
+INV100031,P008,Power Bank,Accessories,4,29.99,119.96,2025-03-09 23:59:00,1138,Customer_1138,Australia,Net Banking
+INV100032,P008,Power Bank,Accessories,4,29.99,119.96,2025-08-31 13:12:00,1200,Customer_1200,India,Credit Card
+INV100033,P007,Monitor,Electronics,6,150.0,900.0,2025-07-30 14:55:00,1108,Customer_1108,Germany,Credit Card
+INV100034,P002,Keyboard,Electronics,1,25.5,25.5,2025-06-23 03:15:00,1103,Customer_1103,USA,Debit Card
+INV100035,P009,Bluetooth Speaker,Electronics,8,39.99,319.92,2025-08-05 05:17:00,1035,Customer_1035,Canada,Debit Card
+INV100036,P002,Keyboard,Electronics,8,25.5,204.0,2025-02-20 01:41:00,1140,Customer_1140,Australia,Credit Card
+INV100037,P002,Keyboard,Electronics,4,25.5,102.0,2025-07-28 15:30:00,1042,Customer_1042,USA,PayPal
+INV100038,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-01-02 12:16:00,1097,Customer_1097,Canada,UPI
+INV100039,P007,Monitor,Electronics,9,150.0,1350.0,2025-09-07 04:12:00,1169,Customer_1169,UK,Debit Card
+INV100040,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-10-05 01:47:00,1188,Customer_1188,UK,Credit Card
+INV100041,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-09-15 16:10:00,1122,Customer_1122,India,Net Banking
+INV100042,P002,Keyboard,Electronics,3,25.5,76.5,2025-11-01 02:43:00,1017,Customer_1017,USA,PayPal
+INV100043,P002,Keyboard,Electronics,10,25.5,255.0,2025-10-24 19:02:00,1063,Customer_1063,Australia,Credit Card
+INV100044,P007,Monitor,Electronics,10,150.0,1500.0,2025-09-25 10:59:00,1144,Customer_1144,UK,Debit Card
+INV100045,P006,Webcam,Electronics,4,55.0,220.0,2025-07-22 04:42:00,1067,Customer_1067,Germany,UPI
+INV100046,P008,Power Bank,Accessories,6,29.99,179.94,2025-02-07 00:29:00,1192,Customer_1192,Australia,Net Banking
+INV100047,P002,Keyboard,Electronics,2,25.5,51.0,2025-04-20 16:16:00,1137,Customer_1137,USA,UPI
+INV100048,P002,Keyboard,Electronics,4,25.5,102.0,2025-05-26 05:28:00,1094,Customer_1094,Australia,UPI
+INV100049,P010,Desk Lamp,Home,9,22.5,202.5,2025-12-08 17:19:00,1002,Customer_1002,Germany,Credit Card
+INV100050,P003,USB Cable,Accessories,5,5.99,29.95,2025-02-24 23:35:00,1029,Customer_1029,USA,UPI
+INV100051,P005,Headphones,Electronics,10,45.99,459.9,2025-06-25 06:43:00,1053,Customer_1053,Germany,UPI
+INV100052,P009,Bluetooth Speaker,Electronics,8,39.99,319.92,2025-01-27 02:40:00,1064,Customer_1064,Canada,UPI
+INV100053,P001,Wireless Mouse,Electronics,1,15.99,15.99,2025-03-08 20:16:00,1085,Customer_1085,USA,PayPal
+INV100054,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-01-05 03:04:00,1143,Customer_1143,Germany,Debit Card
+INV100055,P009,Bluetooth Speaker,Electronics,1,39.99,39.99,2025-10-26 17:09:00,1094,Customer_1094,Canada,Debit Card
+INV100056,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-01-21 11:13:00,1093,Customer_1093,Germany,Debit Card
+INV100057,P002,Keyboard,Electronics,6,25.5,153.0,2025-10-14 13:39:00,1199,Customer_1199,Germany,Debit Card
+INV100058,P004,Laptop Stand,Accessories,3,35.0,105.0,2025-07-31 00:11:00,1045,Customer_1045,Germany,UPI
+INV100059,P007,Monitor,Electronics,4,150.0,600.0,2025-03-23 22:06:00,1068,Customer_1068,Canada,Credit Card
+INV100060,P008,Power Bank,Accessories,4,29.99,119.96,2025-08-24 11:19:00,1051,Customer_1051,USA,Debit Card
+INV100061,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-06-18 08:55:00,1102,Customer_1102,India,UPI
+INV100062,P006,Webcam,Electronics,9,55.0,495.0,2025-12-14 17:21:00,1102,Customer_1102,India,Credit Card
+INV100063,P005,Headphones,Electronics,3,45.99,137.97,2025-05-16 01:06:00,1148,Customer_1148,Australia,PayPal
+INV100064,P006,Webcam,Electronics,6,55.0,330.0,2025-11-07 16:07:00,1111,Customer_1111,Canada,Net Banking
+INV100065,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-12-29 13:00:00,1011,Customer_1011,Australia,Net Banking
+INV100066,P004,Laptop Stand,Accessories,6,35.0,210.0,2025-02-05 21:58:00,1110,Customer_1110,UK,Net Banking
+INV100067,P006,Webcam,Electronics,2,55.0,110.0,2025-06-03 16:19:00,1184,Customer_1184,Germany,PayPal
+INV100068,P006,Webcam,Electronics,7,55.0,385.0,2025-06-01 17:08:00,1178,Customer_1178,USA,PayPal
+INV100069,P007,Monitor,Electronics,3,150.0,450.0,2025-10-19 09:25:00,1157,Customer_1157,Australia,Credit Card
+INV100070,P005,Headphones,Electronics,5,45.99,229.95,2025-08-09 18:38:00,1053,Customer_1053,Germany,UPI
+INV100071,P008,Power Bank,Accessories,8,29.99,239.92,2025-12-12 06:32:00,1113,Customer_1113,Canada,Debit Card
+INV100072,P002,Keyboard,Electronics,5,25.5,127.5,2025-12-06 20:39:00,1131,Customer_1131,UK,Credit Card
+INV100073,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-04-12 04:01:00,1057,Customer_1057,India,Debit Card
+INV100074,P008,Power Bank,Accessories,10,29.99,299.9,2025-02-07 14:26:00,1196,Customer_1196,Germany,Net Banking
+INV100075,P004,Laptop Stand,Accessories,7,35.0,245.0,2025-07-24 07:09:00,1126,Customer_1126,Germany,Credit Card
+INV100076,P002,Keyboard,Electronics,7,25.5,178.5,2025-04-01 22:33:00,1056,Customer_1056,Canada,Credit Card
+INV100077,P009,Bluetooth Speaker,Electronics,4,39.99,159.96,2025-08-22 04:51:00,1031,Customer_1031,Canada,Net Banking
+INV100078,P009,Bluetooth Speaker,Electronics,10,39.99,399.9,2025-08-15 19:52:00,1081,Customer_1081,Germany,Net Banking
+INV100079,P007,Monitor,Electronics,9,150.0,1350.0,2025-03-23 23:55:00,1114,Customer_1114,Canada,PayPal
+INV100080,P005,Headphones,Electronics,4,45.99,183.96,2025-05-22 16:31:00,1163,Customer_1163,Germany,Debit Card
+INV100081,P005,Headphones,Electronics,8,45.99,367.92,2025-05-27 07:17:00,1019,Customer_1019,UK,UPI
+INV100082,P009,Bluetooth Speaker,Electronics,2,39.99,79.98,2025-03-19 07:24:00,1035,Customer_1035,Germany,Debit Card
+INV100083,P004,Laptop Stand,Accessories,2,35.0,70.0,2025-07-28 10:34:00,1106,Customer_1106,Canada,PayPal
+INV100084,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-07-19 18:44:00,1107,Customer_1107,India,Net Banking
+INV100085,P007,Monitor,Electronics,8,150.0,1200.0,2025-06-30 09:48:00,1001,Customer_1001,Canada,PayPal
+INV100086,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-04-23 15:14:00,1154,Customer_1154,UK,PayPal
+INV100087,P008,Power Bank,Accessories,1,29.99,29.99,2025-06-22 21:43:00,1099,Customer_1099,Canada,Debit Card
+INV100088,P008,Power Bank,Accessories,3,29.99,89.97,2025-10-01 00:58:00,1159,Customer_1159,Canada,Net Banking
+INV100089,P010,Desk Lamp,Home,1,22.5,22.5,2025-11-26 13:08:00,1021,Customer_1021,Canada,Debit Card
+INV100090,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-06-17 06:29:00,1097,Customer_1097,UK,UPI
+INV100091,P007,Monitor,Electronics,5,150.0,750.0,2025-08-04 08:53:00,1192,Customer_1192,India,PayPal
+INV100092,P001,Wireless Mouse,Electronics,9,15.99,143.91,2025-06-29 07:41:00,1013,Customer_1013,India,Credit Card
+INV100093,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-01-11 19:09:00,1051,Customer_1051,USA,Debit Card
+INV100094,P008,Power Bank,Accessories,2,29.99,59.98,2025-04-22 14:44:00,1144,Customer_1144,UK,UPI
+INV100095,P003,USB Cable,Accessories,10,5.99,59.9,2025-02-28 05:19:00,1155,Customer_1155,India,Net Banking
+INV100096,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-12-13 12:25:00,1147,Customer_1147,Germany,Debit Card
+INV100097,P002,Keyboard,Electronics,10,25.5,255.0,2025-11-18 07:06:00,1176,Customer_1176,Germany,UPI
+INV100098,P010,Desk Lamp,Home,2,22.5,45.0,2025-01-22 11:34:00,1144,Customer_1144,Canada,UPI
+INV100099,P002,Keyboard,Electronics,9,25.5,229.5,2025-06-24 00:54:00,1165,Customer_1165,Canada,PayPal
+INV100100,P002,Keyboard,Electronics,7,25.5,178.5,2025-11-22 14:45:00,1092,Customer_1092,USA,PayPal
+INV100101,P003,USB Cable,Accessories,9,5.99,53.91,2025-05-19 19:51:00,1166,Customer_1166,Australia,PayPal
+INV100102,P008,Power Bank,Accessories,7,29.99,209.93,2025-10-31 08:20:00,1187,Customer_1187,USA,Credit Card
+INV100103,P005,Headphones,Electronics,8,45.99,367.92,2025-08-26 18:39:00,1062,Customer_1062,Germany,PayPal
+INV100104,P006,Webcam,Electronics,1,55.0,55.0,2025-06-16 05:31:00,1126,Customer_1126,USA,UPI
+INV100105,P005,Headphones,Electronics,6,45.99,275.94,2025-11-02 22:56:00,1071,Customer_1071,UK,Net Banking
+INV100106,P001,Wireless Mouse,Electronics,9,15.99,143.91,2025-02-13 07:46:00,1048,Customer_1048,Canada,PayPal
+INV100107,P009,Bluetooth Speaker,Electronics,4,39.99,159.96,2025-09-01 20:45:00,1176,Customer_1176,Canada,PayPal
+INV100108,P001,Wireless Mouse,Electronics,2,15.99,31.98,2025-04-24 12:44:00,1075,Customer_1075,USA,UPI
+INV100109,P010,Desk Lamp,Home,6,22.5,135.0,2025-10-11 16:22:00,1121,Customer_1121,Canada,Net Banking
+INV100110,P006,Webcam,Electronics,6,55.0,330.0,2025-08-21 08:19:00,1179,Customer_1179,UK,Debit Card
+INV100111,P002,Keyboard,Electronics,4,25.5,102.0,2025-03-03 23:34:00,1080,Customer_1080,Germany,Debit Card
+INV100112,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-09-05 08:46:00,1189,Customer_1189,Australia,Net Banking
+INV100113,P010,Desk Lamp,Home,5,22.5,112.5,2025-04-10 09:14:00,1025,Customer_1025,UK,Debit Card
+INV100114,P005,Headphones,Electronics,1,45.99,45.99,2025-10-01 04:17:00,1181,Customer_1181,India,Credit Card
+INV100115,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-03-06 20:55:00,1178,Customer_1178,Canada,Credit Card
+INV100116,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-08-29 15:28:00,1072,Customer_1072,UK,Debit Card
+INV100117,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-02-28 02:25:00,1122,Customer_1122,Canada,Credit Card
+INV100118,P010,Desk Lamp,Home,1,22.5,22.5,2025-03-18 18:19:00,1038,Customer_1038,India,Debit Card
+INV100119,P002,Keyboard,Electronics,9,25.5,229.5,2025-08-02 19:38:00,1195,Customer_1195,Australia,Debit Card
+INV100120,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-08-15 09:55:00,1115,Customer_1115,Australia,PayPal
+INV100121,P005,Headphones,Electronics,10,45.99,459.9,2025-01-31 19:47:00,1158,Customer_1158,India,Debit Card
+INV100122,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-02-11 05:15:00,1169,Customer_1169,USA,Net Banking
+INV100123,P002,Keyboard,Electronics,3,25.5,76.5,2025-07-29 14:44:00,1000,Customer_1000,Australia,PayPal
+INV100124,P005,Headphones,Electronics,1,45.99,45.99,2025-05-28 22:18:00,1059,Customer_1059,Germany,PayPal
+INV100125,P002,Keyboard,Electronics,4,25.5,102.0,2025-11-17 18:42:00,1067,Customer_1067,USA,PayPal
+INV100126,P002,Keyboard,Electronics,9,25.5,229.5,2025-11-28 04:58:00,1057,Customer_1057,UK,Debit Card
+INV100127,P002,Keyboard,Electronics,1,25.5,25.5,2025-06-07 19:47:00,1042,Customer_1042,Australia,UPI
+INV100128,P008,Power Bank,Accessories,2,29.99,59.98,2025-12-19 09:44:00,1119,Customer_1119,Canada,UPI
+INV100129,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-08-13 02:38:00,1126,Customer_1126,India,PayPal
+INV100130,P006,Webcam,Electronics,10,55.0,550.0,2025-01-14 02:14:00,1064,Customer_1064,Germany,Net Banking
+INV100131,P010,Desk Lamp,Home,1,22.5,22.5,2025-12-11 08:36:00,1195,Customer_1195,India,Debit Card
+INV100132,P008,Power Bank,Accessories,9,29.99,269.91,2025-08-15 08:11:00,1166,Customer_1166,Australia,PayPal
+INV100133,P008,Power Bank,Accessories,2,29.99,59.98,2025-06-28 13:21:00,1120,Customer_1120,UK,Credit Card
+INV100134,P003,USB Cable,Accessories,6,5.99,35.94,2025-12-22 15:18:00,1105,Customer_1105,Germany,PayPal
+INV100135,P009,Bluetooth Speaker,Electronics,1,39.99,39.99,2025-02-15 10:16:00,1116,Customer_1116,UK,Credit Card
+INV100136,P007,Monitor,Electronics,9,150.0,1350.0,2025-12-03 17:29:00,1000,Customer_1000,Canada,Credit Card
+INV100137,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-11-15 15:40:00,1092,Customer_1092,Canada,Credit Card
+INV100138,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-03-09 09:28:00,1140,Customer_1140,Germany,PayPal
+INV100139,P002,Keyboard,Electronics,1,25.5,25.5,2025-11-08 07:45:00,1161,Customer_1161,USA,UPI
+INV100140,P009,Bluetooth Speaker,Electronics,1,39.99,39.99,2025-07-28 02:14:00,1141,Customer_1141,India,PayPal
+INV100141,P002,Keyboard,Electronics,3,25.5,76.5,2025-05-30 16:45:00,1127,Customer_1127,UK,PayPal
+INV100142,P008,Power Bank,Accessories,8,29.99,239.92,2025-08-22 17:09:00,1062,Customer_1062,Canada,Debit Card
+INV100143,P010,Desk Lamp,Home,9,22.5,202.5,2025-03-11 02:17:00,1191,Customer_1191,Canada,UPI
+INV100144,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-05-25 23:19:00,1000,Customer_1000,Australia,Net Banking
+INV100145,P008,Power Bank,Accessories,3,29.99,89.97,2025-10-03 15:22:00,1114,Customer_1114,UK,Net Banking
+INV100146,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-06-14 06:44:00,1116,Customer_1116,USA,Net Banking
+INV100147,P007,Monitor,Electronics,4,150.0,600.0,2025-07-30 01:20:00,1198,Customer_1198,Germany,PayPal
+INV100148,P007,Monitor,Electronics,7,150.0,1050.0,2025-11-30 04:31:00,1169,Customer_1169,India,Debit Card
+INV100149,P009,Bluetooth Speaker,Electronics,10,39.99,399.9,2025-02-21 14:06:00,1084,Customer_1084,Australia,PayPal
+INV100150,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-12-02 04:04:00,1104,Customer_1104,Canada,UPI
+INV100151,P006,Webcam,Electronics,10,55.0,550.0,2025-07-23 20:05:00,1177,Customer_1177,UK,Net Banking
+INV100152,P007,Monitor,Electronics,6,150.0,900.0,2025-09-07 17:02:00,1160,Customer_1160,Australia,Credit Card
+INV100153,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-02-16 13:06:00,1058,Customer_1058,Germany,Credit Card
+INV100154,P008,Power Bank,Accessories,3,29.99,89.97,2025-06-03 00:02:00,1177,Customer_1177,UK,Credit Card
+INV100155,P005,Headphones,Electronics,6,45.99,275.94,2025-08-09 04:15:00,1095,Customer_1095,Australia,PayPal
+INV100156,P010,Desk Lamp,Home,3,22.5,67.5,2025-03-31 02:39:00,1043,Customer_1043,Canada,Net Banking
+INV100157,P004,Laptop Stand,Accessories,8,35.0,280.0,2025-03-15 07:29:00,1149,Customer_1149,Germany,UPI
+INV100158,P008,Power Bank,Accessories,5,29.99,149.95,2025-01-05 14:57:00,1170,Customer_1170,UK,Net Banking
+INV100159,P003,USB Cable,Accessories,2,5.99,11.98,2025-06-26 18:19:00,1113,Customer_1113,Germany,PayPal
+INV100160,P005,Headphones,Electronics,8,45.99,367.92,2025-04-12 12:54:00,1077,Customer_1077,Canada,Credit Card
+INV100161,P004,Laptop Stand,Accessories,7,35.0,245.0,2025-07-03 18:18:00,1146,Customer_1146,Germany,UPI
+INV100162,P001,Wireless Mouse,Electronics,7,15.99,111.93,2025-01-05 18:55:00,1070,Customer_1070,Germany,Credit Card
+INV100163,P010,Desk Lamp,Home,8,22.5,180.0,2025-04-28 19:51:00,1073,Customer_1073,UK,Debit Card
+INV100164,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-12-14 23:49:00,1064,Customer_1064,Germany,Debit Card
+INV100165,P002,Keyboard,Electronics,1,25.5,25.5,2025-08-14 01:37:00,1079,Customer_1079,UK,Debit Card
+INV100166,P002,Keyboard,Electronics,5,25.5,127.5,2025-08-01 05:12:00,1083,Customer_1083,USA,Net Banking
+INV100167,P006,Webcam,Electronics,9,55.0,495.0,2025-05-20 05:16:00,1128,Customer_1128,Canada,UPI
+INV100168,P006,Webcam,Electronics,2,55.0,110.0,2025-02-08 04:48:00,1119,Customer_1119,USA,PayPal
+INV100169,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-07-22 00:16:00,1023,Customer_1023,Australia,Credit Card
+INV100170,P008,Power Bank,Accessories,6,29.99,179.94,2025-12-11 08:37:00,1172,Customer_1172,Canada,UPI
+INV100171,P002,Keyboard,Electronics,4,25.5,102.0,2025-01-13 19:56:00,1120,Customer_1120,Australia,UPI
+INV100172,P010,Desk Lamp,Home,4,22.5,90.0,2025-02-02 20:52:00,1165,Customer_1165,Canada,UPI
+INV100173,P007,Monitor,Electronics,2,150.0,300.0,2025-01-24 01:19:00,1035,Customer_1035,Canada,Credit Card
+INV100174,P002,Keyboard,Electronics,4,25.5,102.0,2025-03-11 12:29:00,1137,Customer_1137,UK,Net Banking
+INV100175,P007,Monitor,Electronics,10,150.0,1500.0,2025-03-21 13:41:00,1190,Customer_1190,India,PayPal
+INV100176,P010,Desk Lamp,Home,7,22.5,157.5,2025-01-17 22:23:00,1071,Customer_1071,USA,PayPal
+INV100177,P008,Power Bank,Accessories,4,29.99,119.96,2025-02-20 21:23:00,1092,Customer_1092,Australia,UPI
+INV100178,P001,Wireless Mouse,Electronics,7,15.99,111.93,2025-04-08 03:54:00,1070,Customer_1070,Canada,Credit Card
+INV100179,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-01-26 10:15:00,1005,Customer_1005,USA,Net Banking
+INV100180,P004,Laptop Stand,Accessories,2,35.0,70.0,2025-10-11 06:37:00,1195,Customer_1195,USA,Debit Card
+INV100181,P006,Webcam,Electronics,3,55.0,165.0,2025-01-02 08:54:00,1152,Customer_1152,USA,Debit Card
+INV100182,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-02-26 21:55:00,1044,Customer_1044,India,Debit Card
+INV100183,P001,Wireless Mouse,Electronics,6,15.99,95.94,2025-10-29 10:01:00,1060,Customer_1060,USA,UPI
+INV100184,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-08-04 16:07:00,1189,Customer_1189,Germany,Credit Card
+INV100185,P008,Power Bank,Accessories,8,29.99,239.92,2025-07-05 16:37:00,1199,Customer_1199,India,PayPal
+INV100186,P009,Bluetooth Speaker,Electronics,4,39.99,159.96,2025-01-23 23:50:00,1157,Customer_1157,Germany,Net Banking
+INV100187,P005,Headphones,Electronics,8,45.99,367.92,2025-01-16 01:30:00,1164,Customer_1164,Canada,PayPal
+INV100188,P002,Keyboard,Electronics,8,25.5,204.0,2025-08-16 02:57:00,1182,Customer_1182,India,UPI
+INV100189,P010,Desk Lamp,Home,3,22.5,67.5,2025-03-06 08:39:00,1016,Customer_1016,Germany,Net Banking
+INV100190,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-11-02 16:18:00,1097,Customer_1097,Canada,Net Banking
+INV100191,P010,Desk Lamp,Home,7,22.5,157.5,2025-12-26 03:54:00,1025,Customer_1025,Germany,Net Banking
+INV100192,P004,Laptop Stand,Accessories,7,35.0,245.0,2025-04-27 13:21:00,1115,Customer_1115,Canada,PayPal
+INV100193,P007,Monitor,Electronics,2,150.0,300.0,2025-08-07 10:42:00,1080,Customer_1080,UK,UPI
+INV100194,P003,USB Cable,Accessories,8,5.99,47.92,2025-02-16 02:05:00,1017,Customer_1017,Canada,Credit Card
+INV100195,P006,Webcam,Electronics,3,55.0,165.0,2025-01-31 18:35:00,1142,Customer_1142,Australia,UPI
+INV100196,P002,Keyboard,Electronics,7,25.5,178.5,2025-12-07 13:55:00,1090,Customer_1090,Germany,Credit Card
+INV100197,P005,Headphones,Electronics,10,45.99,459.9,2025-06-30 03:36:00,1079,Customer_1079,Australia,Debit Card
+INV100198,P003,USB Cable,Accessories,8,5.99,47.92,2025-02-25 11:54:00,1057,Customer_1057,Australia,UPI
+INV100199,P002,Keyboard,Electronics,5,25.5,127.5,2025-04-26 13:54:00,1146,Customer_1146,Australia,Net Banking
+INV100200,P010,Desk Lamp,Home,9,22.5,202.5,2025-11-08 21:53:00,1006,Customer_1006,Germany,UPI
+INV100201,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-12-26 09:58:00,1069,Customer_1069,UK,UPI
+INV100202,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-10-17 21:25:00,1036,Customer_1036,India,Debit Card
+INV100203,P001,Wireless Mouse,Electronics,2,15.99,31.98,2025-09-29 06:24:00,1191,Customer_1191,Canada,PayPal
+INV100204,P006,Webcam,Electronics,3,55.0,165.0,2025-06-09 23:20:00,1094,Customer_1094,Australia,Net Banking
+INV100205,P002,Keyboard,Electronics,1,25.5,25.5,2025-03-22 19:03:00,1039,Customer_1039,Germany,Credit Card
+INV100206,P005,Headphones,Electronics,8,45.99,367.92,2025-08-06 15:38:00,1169,Customer_1169,Canada,PayPal
+INV100207,P005,Headphones,Electronics,4,45.99,183.96,2025-09-20 03:22:00,1193,Customer_1193,Canada,Credit Card
+INV100208,P005,Headphones,Electronics,10,45.99,459.9,2025-09-27 21:19:00,1124,Customer_1124,India,Debit Card
+INV100209,P007,Monitor,Electronics,10,150.0,1500.0,2025-01-04 06:19:00,1014,Customer_1014,USA,Debit Card
+INV100210,P005,Headphones,Electronics,5,45.99,229.95,2025-03-03 00:31:00,1083,Customer_1083,Germany,PayPal
+INV100211,P003,USB Cable,Accessories,3,5.99,17.97,2025-09-30 22:14:00,1097,Customer_1097,Australia,Net Banking
+INV100212,P006,Webcam,Electronics,2,55.0,110.0,2025-01-22 13:01:00,1101,Customer_1101,Canada,Credit Card
+INV100213,P006,Webcam,Electronics,10,55.0,550.0,2025-10-21 12:45:00,1109,Customer_1109,Germany,PayPal
+INV100214,P005,Headphones,Electronics,2,45.99,91.98,2025-01-11 10:10:00,1103,Customer_1103,Australia,PayPal
+INV100215,P006,Webcam,Electronics,2,55.0,110.0,2025-02-24 07:27:00,1111,Customer_1111,Australia,PayPal
+INV100216,P009,Bluetooth Speaker,Electronics,2,39.99,79.98,2025-06-08 23:21:00,1101,Customer_1101,USA,UPI
+INV100217,P003,USB Cable,Accessories,2,5.99,11.98,2025-11-21 03:33:00,1130,Customer_1130,Australia,Debit Card
+INV100218,P006,Webcam,Electronics,6,55.0,330.0,2025-11-27 04:15:00,1186,Customer_1186,India,Debit Card
+INV100219,P005,Headphones,Electronics,4,45.99,183.96,2025-11-05 04:48:00,1044,Customer_1044,Germany,Credit Card
+INV100220,P003,USB Cable,Accessories,8,5.99,47.92,2025-10-16 18:28:00,1118,Customer_1118,Germany,Net Banking
+INV100221,P010,Desk Lamp,Home,6,22.5,135.0,2025-06-11 04:28:00,1160,Customer_1160,India,PayPal
+INV100222,P008,Power Bank,Accessories,5,29.99,149.95,2025-10-30 01:22:00,1070,Customer_1070,Australia,Credit Card
+INV100223,P005,Headphones,Electronics,8,45.99,367.92,2025-01-20 01:23:00,1115,Customer_1115,UK,Credit Card
+INV100224,P002,Keyboard,Electronics,10,25.5,255.0,2025-09-17 12:29:00,1152,Customer_1152,Australia,Net Banking
+INV100225,P001,Wireless Mouse,Electronics,8,15.99,127.92,2025-11-30 06:20:00,1146,Customer_1146,Australia,PayPal
+INV100226,P009,Bluetooth Speaker,Electronics,3,39.99,119.97,2025-08-19 03:51:00,1015,Customer_1015,UK,Credit Card
+INV100227,P009,Bluetooth Speaker,Electronics,3,39.99,119.97,2025-05-07 22:28:00,1010,Customer_1010,Canada,Net Banking
+INV100228,P009,Bluetooth Speaker,Electronics,10,39.99,399.9,2025-07-06 11:58:00,1040,Customer_1040,UK,PayPal
+INV100229,P007,Monitor,Electronics,6,150.0,900.0,2025-11-03 01:50:00,1173,Customer_1173,Germany,UPI
+INV100230,P002,Keyboard,Electronics,6,25.5,153.0,2025-10-13 21:24:00,1024,Customer_1024,UK,UPI
+INV100231,P010,Desk Lamp,Home,3,22.5,67.5,2025-02-11 18:42:00,1085,Customer_1085,USA,UPI
+INV100232,P005,Headphones,Electronics,7,45.99,321.93,2025-11-01 22:05:00,1033,Customer_1033,UK,Net Banking
+INV100233,P007,Monitor,Electronics,6,150.0,900.0,2025-12-10 22:53:00,1032,Customer_1032,Germany,Net Banking
+INV100234,P002,Keyboard,Electronics,7,25.5,178.5,2025-07-05 00:23:00,1130,Customer_1130,UK,Debit Card
+INV100235,P004,Laptop Stand,Accessories,6,35.0,210.0,2025-09-06 06:14:00,1196,Customer_1196,USA,Debit Card
+INV100236,P002,Keyboard,Electronics,5,25.5,127.5,2025-09-17 17:53:00,1025,Customer_1025,Germany,Net Banking
+INV100237,P001,Wireless Mouse,Electronics,6,15.99,95.94,2025-11-13 04:38:00,1196,Customer_1196,Canada,Debit Card
+INV100238,P003,USB Cable,Accessories,3,5.99,17.97,2025-11-16 05:46:00,1177,Customer_1177,Canada,Credit Card
+INV100239,P007,Monitor,Electronics,6,150.0,900.0,2025-05-02 14:39:00,1173,Customer_1173,UK,PayPal
+INV100240,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-06-08 15:57:00,1061,Customer_1061,USA,UPI
+INV100241,P010,Desk Lamp,Home,8,22.5,180.0,2025-05-25 12:32:00,1118,Customer_1118,Australia,PayPal
+INV100242,P003,USB Cable,Accessories,4,5.99,23.96,2025-03-12 08:03:00,1154,Customer_1154,Germany,PayPal
+INV100243,P006,Webcam,Electronics,9,55.0,495.0,2025-12-31 16:54:00,1026,Customer_1026,India,UPI
+INV100244,P002,Keyboard,Electronics,3,25.5,76.5,2025-08-19 16:09:00,1069,Customer_1069,Canada,Credit Card
+INV100245,P004,Laptop Stand,Accessories,8,35.0,280.0,2025-01-14 13:03:00,1089,Customer_1089,Canada,Net Banking
+INV100246,P006,Webcam,Electronics,4,55.0,220.0,2025-02-11 11:14:00,1098,Customer_1098,India,UPI
+INV100247,P002,Keyboard,Electronics,6,25.5,153.0,2025-03-12 01:18:00,1037,Customer_1037,Canada,Debit Card
+INV100248,P008,Power Bank,Accessories,8,29.99,239.92,2025-01-03 02:01:00,1157,Customer_1157,UK,Debit Card
+INV100249,P003,USB Cable,Accessories,9,5.99,53.91,2025-11-08 16:27:00,1186,Customer_1186,India,UPI
+INV100250,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-01-25 07:26:00,1031,Customer_1031,Germany,Net Banking
+INV100251,P008,Power Bank,Accessories,2,29.99,59.98,2025-09-13 19:34:00,1028,Customer_1028,India,Net Banking
+INV100252,P010,Desk Lamp,Home,4,22.5,90.0,2025-03-15 09:27:00,1183,Customer_1183,India,Net Banking
+INV100253,P006,Webcam,Electronics,4,55.0,220.0,2025-08-02 05:42:00,1146,Customer_1146,Germany,Credit Card
+INV100254,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-09-27 17:32:00,1017,Customer_1017,Australia,Net Banking
+INV100255,P001,Wireless Mouse,Electronics,7,15.99,111.93,2025-01-23 20:24:00,1120,Customer_1120,UK,UPI
+INV100256,P001,Wireless Mouse,Electronics,6,15.99,95.94,2025-06-26 07:46:00,1017,Customer_1017,Germany,Credit Card
+INV100257,P010,Desk Lamp,Home,6,22.5,135.0,2025-01-23 11:34:00,1034,Customer_1034,UK,Debit Card
+INV100258,P008,Power Bank,Accessories,8,29.99,239.92,2025-04-04 04:04:00,1161,Customer_1161,Germany,PayPal
+INV100259,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-01-23 06:56:00,1051,Customer_1051,India,UPI
+INV100260,P005,Headphones,Electronics,9,45.99,413.91,2025-10-06 15:16:00,1101,Customer_1101,India,Debit Card
+INV100261,P005,Headphones,Electronics,6,45.99,275.94,2025-01-25 20:21:00,1199,Customer_1199,UK,Credit Card
+INV100262,P006,Webcam,Electronics,7,55.0,385.0,2025-08-14 12:21:00,1102,Customer_1102,USA,PayPal
+INV100263,P008,Power Bank,Accessories,6,29.99,179.94,2025-05-17 02:46:00,1132,Customer_1132,Canada,Credit Card
+INV100264,P007,Monitor,Electronics,10,150.0,1500.0,2025-10-07 09:20:00,1046,Customer_1046,India,Credit Card
+INV100265,P006,Webcam,Electronics,5,55.0,275.0,2025-08-17 19:45:00,1078,Customer_1078,Canada,Debit Card
+INV100266,P008,Power Bank,Accessories,6,29.99,179.94,2025-01-22 23:55:00,1114,Customer_1114,UK,Net Banking
+INV100267,P007,Monitor,Electronics,5,150.0,750.0,2025-01-30 02:42:00,1163,Customer_1163,Germany,PayPal
+INV100268,P006,Webcam,Electronics,9,55.0,495.0,2025-12-14 05:01:00,1191,Customer_1191,USA,Net Banking
+INV100269,P008,Power Bank,Accessories,1,29.99,29.99,2025-02-04 07:49:00,1032,Customer_1032,Germany,UPI
+INV100270,P006,Webcam,Electronics,7,55.0,385.0,2025-01-17 19:09:00,1145,Customer_1145,Germany,PayPal
+INV100271,P006,Webcam,Electronics,6,55.0,330.0,2025-02-09 18:08:00,1113,Customer_1113,Australia,UPI
+INV100272,P007,Monitor,Electronics,6,150.0,900.0,2025-05-23 07:07:00,1166,Customer_1166,India,Debit Card
+INV100273,P008,Power Bank,Accessories,9,29.99,269.91,2025-10-15 03:16:00,1099,Customer_1099,UK,PayPal
+INV100274,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-12-22 15:12:00,1073,Customer_1073,India,Debit Card
+INV100275,P002,Keyboard,Electronics,8,25.5,204.0,2025-08-16 02:51:00,1044,Customer_1044,Germany,UPI
+INV100276,P006,Webcam,Electronics,2,55.0,110.0,2025-10-05 09:57:00,1140,Customer_1140,UK,Debit Card
+INV100277,P003,USB Cable,Accessories,6,5.99,35.94,2025-04-25 03:12:00,1130,Customer_1130,USA,Debit Card
+INV100278,P008,Power Bank,Accessories,1,29.99,29.99,2025-10-11 18:23:00,1092,Customer_1092,Canada,Net Banking
+INV100279,P003,USB Cable,Accessories,10,5.99,59.9,2025-02-03 09:25:00,1022,Customer_1022,Germany,PayPal
+INV100280,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-07-29 18:04:00,1196,Customer_1196,USA,UPI
+INV100281,P002,Keyboard,Electronics,8,25.5,204.0,2025-12-15 16:22:00,1119,Customer_1119,USA,Net Banking
+INV100282,P010,Desk Lamp,Home,3,22.5,67.5,2025-03-08 13:32:00,1196,Customer_1196,India,Credit Card
+INV100283,P009,Bluetooth Speaker,Electronics,3,39.99,119.97,2025-03-26 05:20:00,1077,Customer_1077,Germany,Debit Card
+INV100284,P006,Webcam,Electronics,9,55.0,495.0,2025-02-10 08:12:00,1072,Customer_1072,Germany,Net Banking
+INV100285,P005,Headphones,Electronics,3,45.99,137.97,2025-06-05 19:34:00,1160,Customer_1160,India,Net Banking
+INV100286,P003,USB Cable,Accessories,10,5.99,59.9,2025-03-20 05:42:00,1148,Customer_1148,Australia,Net Banking
+INV100287,P006,Webcam,Electronics,10,55.0,550.0,2025-01-15 02:02:00,1010,Customer_1010,Germany,Net Banking
+INV100288,P005,Headphones,Electronics,4,45.99,183.96,2025-10-20 13:39:00,1196,Customer_1196,Germany,Credit Card
+INV100289,P008,Power Bank,Accessories,9,29.99,269.91,2025-11-25 09:30:00,1074,Customer_1074,USA,PayPal
+INV100290,P005,Headphones,Electronics,8,45.99,367.92,2025-12-19 01:10:00,1018,Customer_1018,Canada,PayPal
+INV100291,P008,Power Bank,Accessories,8,29.99,239.92,2025-06-24 19:09:00,1052,Customer_1052,UK,UPI
+INV100292,P006,Webcam,Electronics,7,55.0,385.0,2025-07-09 16:35:00,1033,Customer_1033,India,UPI
+INV100293,P004,Laptop Stand,Accessories,8,35.0,280.0,2025-05-17 14:15:00,1031,Customer_1031,USA,Credit Card
+INV100294,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-11-12 13:15:00,1098,Customer_1098,USA,UPI
+INV100295,P010,Desk Lamp,Home,6,22.5,135.0,2025-03-23 15:32:00,1048,Customer_1048,Canada,PayPal
+INV100296,P005,Headphones,Electronics,8,45.99,367.92,2025-02-16 12:32:00,1005,Customer_1005,Canada,Debit Card
+INV100297,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-01-25 01:18:00,1090,Customer_1090,Canada,Net Banking
+INV100298,P008,Power Bank,Accessories,5,29.99,149.95,2025-01-05 03:27:00,1137,Customer_1137,USA,UPI
+INV100299,P006,Webcam,Electronics,7,55.0,385.0,2025-01-24 12:03:00,1093,Customer_1093,Australia,Net Banking
+INV100300,P004,Laptop Stand,Accessories,6,35.0,210.0,2025-05-28 02:24:00,1141,Customer_1141,Australia,PayPal
+INV100301,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-12-15 19:07:00,1159,Customer_1159,USA,Credit Card
+INV100302,P007,Monitor,Electronics,6,150.0,900.0,2025-10-13 11:48:00,1086,Customer_1086,USA,Debit Card
+INV100303,P010,Desk Lamp,Home,9,22.5,202.5,2025-09-14 01:02:00,1102,Customer_1102,India,Debit Card
+INV100304,P006,Webcam,Electronics,8,55.0,440.0,2025-08-22 04:38:00,1132,Customer_1132,Australia,Debit Card
+INV100305,P006,Webcam,Electronics,10,55.0,550.0,2025-03-25 12:39:00,1081,Customer_1081,Germany,UPI
+INV100306,P010,Desk Lamp,Home,6,22.5,135.0,2025-09-18 17:31:00,1129,Customer_1129,Germany,Net Banking
+INV100307,P005,Headphones,Electronics,8,45.99,367.92,2025-07-08 10:43:00,1004,Customer_1004,India,PayPal
+INV100308,P010,Desk Lamp,Home,5,22.5,112.5,2025-12-19 20:01:00,1185,Customer_1185,Australia,PayPal
+INV100309,P005,Headphones,Electronics,10,45.99,459.9,2025-04-27 23:03:00,1147,Customer_1147,Australia,PayPal
+INV100310,P003,USB Cable,Accessories,9,5.99,53.91,2025-11-14 12:09:00,1161,Customer_1161,Germany,Debit Card
+INV100311,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-02-26 06:01:00,1179,Customer_1179,Canada,UPI
+INV100312,P007,Monitor,Electronics,3,150.0,450.0,2025-12-20 06:26:00,1105,Customer_1105,Australia,Net Banking
+INV100313,P008,Power Bank,Accessories,1,29.99,29.99,2025-03-12 16:13:00,1180,Customer_1180,Australia,UPI
+INV100314,P008,Power Bank,Accessories,9,29.99,269.91,2025-06-10 05:29:00,1096,Customer_1096,Australia,UPI
+INV100315,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-12-15 20:51:00,1173,Customer_1173,Germany,UPI
+INV100316,P010,Desk Lamp,Home,8,22.5,180.0,2025-05-07 08:35:00,1049,Customer_1049,UK,Debit Card
+INV100317,P005,Headphones,Electronics,5,45.99,229.95,2025-04-17 22:45:00,1180,Customer_1180,Canada,UPI
+INV100318,P008,Power Bank,Accessories,6,29.99,179.94,2025-05-21 09:07:00,1143,Customer_1143,Australia,Net Banking
+INV100319,P007,Monitor,Electronics,7,150.0,1050.0,2025-03-16 09:02:00,1088,Customer_1088,UK,Credit Card
+INV100320,P006,Webcam,Electronics,8,55.0,440.0,2025-05-12 23:30:00,1167,Customer_1167,USA,Debit Card
+INV100321,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-12-23 08:08:00,1143,Customer_1143,India,Net Banking
+INV100322,P010,Desk Lamp,Home,4,22.5,90.0,2025-01-26 21:57:00,1062,Customer_1062,Australia,Debit Card
+INV100323,P004,Laptop Stand,Accessories,1,35.0,35.0,2025-07-31 10:45:00,1025,Customer_1025,Canada,Credit Card
+INV100324,P003,USB Cable,Accessories,1,5.99,5.99,2025-03-22 13:41:00,1140,Customer_1140,Canada,PayPal
+INV100325,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-05-27 20:03:00,1082,Customer_1082,India,Net Banking
+INV100326,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-01-20 05:26:00,1189,Customer_1189,USA,Credit Card
+INV100327,P007,Monitor,Electronics,8,150.0,1200.0,2025-05-29 01:00:00,1047,Customer_1047,UK,Net Banking
+INV100328,P010,Desk Lamp,Home,2,22.5,45.0,2025-05-26 14:41:00,1085,Customer_1085,Australia,Net Banking
+INV100329,P008,Power Bank,Accessories,3,29.99,89.97,2025-08-28 08:12:00,1129,Customer_1129,India,UPI
+INV100330,P003,USB Cable,Accessories,8,5.99,47.92,2025-05-12 22:11:00,1165,Customer_1165,India,UPI
+INV100331,P005,Headphones,Electronics,10,45.99,459.9,2025-04-09 05:39:00,1172,Customer_1172,Germany,PayPal
+INV100332,P007,Monitor,Electronics,9,150.0,1350.0,2025-02-14 12:42:00,1083,Customer_1083,India,Debit Card
+INV100333,P003,USB Cable,Accessories,8,5.99,47.92,2025-05-08 00:16:00,1082,Customer_1082,Canada,Debit Card
+INV100334,P008,Power Bank,Accessories,5,29.99,149.95,2025-06-04 18:46:00,1084,Customer_1084,Australia,Credit Card
+INV100335,P005,Headphones,Electronics,6,45.99,275.94,2025-05-01 01:42:00,1177,Customer_1177,India,PayPal
+INV100336,P005,Headphones,Electronics,3,45.99,137.97,2025-12-18 16:59:00,1103,Customer_1103,Germany,UPI
+INV100337,P002,Keyboard,Electronics,5,25.5,127.5,2025-11-11 07:14:00,1094,Customer_1094,USA,PayPal
+INV100338,P003,USB Cable,Accessories,8,5.99,47.92,2025-11-07 11:26:00,1191,Customer_1191,Germany,Net Banking
+INV100339,P008,Power Bank,Accessories,9,29.99,269.91,2025-04-22 07:43:00,1170,Customer_1170,Australia,Credit Card
+INV100340,P009,Bluetooth Speaker,Electronics,8,39.99,319.92,2025-12-27 11:04:00,1135,Customer_1135,Australia,Credit Card
+INV100341,P001,Wireless Mouse,Electronics,9,15.99,143.91,2025-04-14 18:34:00,1129,Customer_1129,USA,Debit Card
+INV100342,P006,Webcam,Electronics,9,55.0,495.0,2025-03-01 21:13:00,1113,Customer_1113,Germany,Net Banking
+INV100343,P008,Power Bank,Accessories,2,29.99,59.98,2025-08-17 01:29:00,1130,Customer_1130,USA,Net Banking
+INV100344,P007,Monitor,Electronics,8,150.0,1200.0,2025-01-30 17:29:00,1144,Customer_1144,Germany,UPI
+INV100345,P001,Wireless Mouse,Electronics,7,15.99,111.93,2025-01-02 23:13:00,1065,Customer_1065,Australia,Credit Card
+INV100346,P001,Wireless Mouse,Electronics,7,15.99,111.93,2025-12-25 02:34:00,1088,Customer_1088,India,Credit Card
+INV100347,P008,Power Bank,Accessories,1,29.99,29.99,2025-07-29 05:49:00,1073,Customer_1073,USA,PayPal
+INV100348,P006,Webcam,Electronics,7,55.0,385.0,2025-07-13 12:05:00,1114,Customer_1114,Germany,Net Banking
+INV100349,P003,USB Cable,Accessories,6,5.99,35.94,2025-04-02 17:25:00,1030,Customer_1030,Australia,Debit Card
+INV100350,P004,Laptop Stand,Accessories,1,35.0,35.0,2025-01-12 09:29:00,1193,Customer_1193,Germany,Net Banking
+INV100351,P007,Monitor,Electronics,9,150.0,1350.0,2025-04-28 07:29:00,1097,Customer_1097,UK,Debit Card
+INV100352,P005,Headphones,Electronics,4,45.99,183.96,2025-02-27 01:51:00,1185,Customer_1185,Germany,PayPal
+INV100353,P010,Desk Lamp,Home,1,22.5,22.5,2025-04-16 02:06:00,1061,Customer_1061,Australia,Credit Card
+INV100354,P008,Power Bank,Accessories,10,29.99,299.9,2025-12-27 01:15:00,1172,Customer_1172,Germany,Credit Card
+INV100355,P007,Monitor,Electronics,8,150.0,1200.0,2025-10-04 06:48:00,1059,Customer_1059,India,Debit Card
+INV100356,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-10-22 10:36:00,1059,Customer_1059,Australia,UPI
+INV100357,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-12-05 16:14:00,1036,Customer_1036,Canada,UPI
+INV100358,P005,Headphones,Electronics,1,45.99,45.99,2025-10-30 23:58:00,1142,Customer_1142,USA,PayPal
+INV100359,P009,Bluetooth Speaker,Electronics,8,39.99,319.92,2025-06-26 20:42:00,1012,Customer_1012,Canada,Net Banking
+INV100360,P006,Webcam,Electronics,7,55.0,385.0,2025-03-18 09:24:00,1104,Customer_1104,USA,Net Banking
+INV100361,P008,Power Bank,Accessories,4,29.99,119.96,2025-06-03 22:09:00,1057,Customer_1057,Canada,Credit Card
+INV100362,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-10-13 16:08:00,1106,Customer_1106,Canada,Debit Card
+INV100363,P005,Headphones,Electronics,4,45.99,183.96,2025-11-28 02:59:00,1084,Customer_1084,Canada,UPI
+INV100364,P002,Keyboard,Electronics,9,25.5,229.5,2025-04-08 01:17:00,1185,Customer_1185,Canada,Net Banking
+INV100365,P010,Desk Lamp,Home,1,22.5,22.5,2025-04-07 18:46:00,1018,Customer_1018,Germany,Net Banking
+INV100366,P004,Laptop Stand,Accessories,8,35.0,280.0,2025-06-20 09:58:00,1053,Customer_1053,India,Debit Card
+INV100367,P004,Laptop Stand,Accessories,2,35.0,70.0,2025-09-03 07:44:00,1191,Customer_1191,Australia,Debit Card
+INV100368,P007,Monitor,Electronics,4,150.0,600.0,2025-06-14 09:24:00,1141,Customer_1141,Canada,Net Banking
+INV100369,P006,Webcam,Electronics,5,55.0,275.0,2025-07-04 16:56:00,1066,Customer_1066,Canada,PayPal
+INV100370,P002,Keyboard,Electronics,8,25.5,204.0,2025-06-13 06:23:00,1194,Customer_1194,UK,PayPal
+INV100371,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-03-16 00:16:00,1056,Customer_1056,Australia,Net Banking
+INV100372,P010,Desk Lamp,Home,7,22.5,157.5,2025-03-20 06:21:00,1075,Customer_1075,USA,PayPal
+INV100373,P010,Desk Lamp,Home,4,22.5,90.0,2025-10-09 20:43:00,1127,Customer_1127,UK,UPI
+INV100374,P008,Power Bank,Accessories,8,29.99,239.92,2025-03-28 23:50:00,1117,Customer_1117,UK,Debit Card
+INV100375,P003,USB Cable,Accessories,9,5.99,53.91,2025-04-05 17:41:00,1125,Customer_1125,India,Net Banking
+INV100376,P001,Wireless Mouse,Electronics,2,15.99,31.98,2025-01-25 00:26:00,1171,Customer_1171,USA,Debit Card
+INV100377,P002,Keyboard,Electronics,3,25.5,76.5,2025-04-22 16:29:00,1002,Customer_1002,UK,Credit Card
+INV100378,P010,Desk Lamp,Home,10,22.5,225.0,2025-12-04 15:01:00,1123,Customer_1123,India,Net Banking
+INV100379,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-01-09 16:46:00,1003,Customer_1003,UK,Net Banking
+INV100380,P005,Headphones,Electronics,1,45.99,45.99,2025-12-24 21:27:00,1128,Customer_1128,USA,Credit Card
+INV100381,P002,Keyboard,Electronics,9,25.5,229.5,2025-05-04 06:39:00,1038,Customer_1038,Australia,UPI
+INV100382,P006,Webcam,Electronics,5,55.0,275.0,2025-02-10 11:25:00,1101,Customer_1101,Canada,Net Banking
+INV100383,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-12-17 02:41:00,1076,Customer_1076,Germany,Credit Card
+INV100384,P002,Keyboard,Electronics,7,25.5,178.5,2025-07-13 17:30:00,1097,Customer_1097,India,Credit Card
+INV100385,P003,USB Cable,Accessories,2,5.99,11.98,2025-08-11 20:50:00,1127,Customer_1127,UK,Net Banking
+INV100386,P002,Keyboard,Electronics,9,25.5,229.5,2025-04-28 06:57:00,1010,Customer_1010,Germany,Net Banking
+INV100387,P008,Power Bank,Accessories,5,29.99,149.95,2025-02-08 21:59:00,1011,Customer_1011,UK,Net Banking
+INV100388,P010,Desk Lamp,Home,1,22.5,22.5,2025-06-11 00:13:00,1045,Customer_1045,Australia,Debit Card
+INV100389,P007,Monitor,Electronics,2,150.0,300.0,2025-03-25 18:15:00,1076,Customer_1076,Australia,PayPal
+INV100390,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-03-13 22:46:00,1098,Customer_1098,India,Net Banking
+INV100391,P006,Webcam,Electronics,1,55.0,55.0,2025-08-12 07:53:00,1025,Customer_1025,India,UPI
+INV100392,P010,Desk Lamp,Home,10,22.5,225.0,2025-07-23 10:01:00,1152,Customer_1152,Germany,UPI
+INV100393,P008,Power Bank,Accessories,8,29.99,239.92,2025-07-02 17:24:00,1058,Customer_1058,Canada,Debit Card
+INV100394,P010,Desk Lamp,Home,7,22.5,157.5,2025-11-13 09:51:00,1021,Customer_1021,USA,Credit Card
+INV100395,P002,Keyboard,Electronics,5,25.5,127.5,2025-07-14 22:50:00,1039,Customer_1039,Germany,Debit Card
+INV100396,P007,Monitor,Electronics,6,150.0,900.0,2025-02-24 02:00:00,1092,Customer_1092,UK,PayPal
+INV100397,P006,Webcam,Electronics,5,55.0,275.0,2025-03-09 02:11:00,1026,Customer_1026,Canada,PayPal
+INV100398,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-07-28 03:01:00,1131,Customer_1131,India,UPI
+INV100399,P009,Bluetooth Speaker,Electronics,2,39.99,79.98,2025-11-03 10:55:00,1152,Customer_1152,Canada,Credit Card
+INV100400,P005,Headphones,Electronics,7,45.99,321.93,2025-02-13 23:57:00,1099,Customer_1099,Australia,Debit Card
+INV100401,P010,Desk Lamp,Home,9,22.5,202.5,2025-12-17 12:10:00,1043,Customer_1043,USA,UPI
+INV100402,P005,Headphones,Electronics,5,45.99,229.95,2025-03-16 02:10:00,1126,Customer_1126,Canada,UPI
+INV100403,P007,Monitor,Electronics,5,150.0,750.0,2025-02-09 11:16:00,1123,Customer_1123,USA,PayPal
+INV100404,P010,Desk Lamp,Home,10,22.5,225.0,2025-08-23 03:08:00,1050,Customer_1050,UK,Credit Card
+INV100405,P007,Monitor,Electronics,6,150.0,900.0,2025-07-14 10:28:00,1158,Customer_1158,UK,PayPal
+INV100406,P010,Desk Lamp,Home,3,22.5,67.5,2025-06-14 19:44:00,1076,Customer_1076,USA,PayPal
+INV100407,P006,Webcam,Electronics,3,55.0,165.0,2025-06-13 09:47:00,1101,Customer_1101,Germany,PayPal
+INV100408,P010,Desk Lamp,Home,4,22.5,90.0,2025-07-12 08:52:00,1083,Customer_1083,Canada,UPI
+INV100409,P002,Keyboard,Electronics,10,25.5,255.0,2025-10-31 17:11:00,1051,Customer_1051,Germany,Net Banking
+INV100410,P001,Wireless Mouse,Electronics,8,15.99,127.92,2025-04-18 14:51:00,1181,Customer_1181,UK,Credit Card
+INV100411,P007,Monitor,Electronics,8,150.0,1200.0,2025-11-21 09:15:00,1035,Customer_1035,UK,Debit Card
+INV100412,P007,Monitor,Electronics,7,150.0,1050.0,2025-08-18 19:30:00,1018,Customer_1018,Australia,PayPal
+INV100413,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-08-03 17:02:00,1177,Customer_1177,UK,Net Banking
+INV100414,P010,Desk Lamp,Home,2,22.5,45.0,2025-05-08 21:42:00,1027,Customer_1027,UK,Debit Card
+INV100415,P010,Desk Lamp,Home,1,22.5,22.5,2025-11-27 21:41:00,1144,Customer_1144,Canada,UPI
+INV100416,P007,Monitor,Electronics,2,150.0,300.0,2025-02-20 08:14:00,1002,Customer_1002,Australia,Net Banking
+INV100417,P009,Bluetooth Speaker,Electronics,10,39.99,399.9,2025-10-22 07:28:00,1176,Customer_1176,UK,PayPal
+INV100418,P008,Power Bank,Accessories,10,29.99,299.9,2025-09-14 04:22:00,1176,Customer_1176,India,PayPal
+INV100419,P002,Keyboard,Electronics,5,25.5,127.5,2025-02-13 03:53:00,1106,Customer_1106,Germany,Debit Card
+INV100420,P006,Webcam,Electronics,5,55.0,275.0,2025-08-22 06:33:00,1087,Customer_1087,Canada,UPI
+INV100421,P008,Power Bank,Accessories,2,29.99,59.98,2025-12-23 14:20:00,1112,Customer_1112,India,UPI
+INV100422,P001,Wireless Mouse,Electronics,2,15.99,31.98,2025-06-25 20:06:00,1005,Customer_1005,Germany,Debit Card
+INV100423,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-10-10 05:21:00,1044,Customer_1044,Australia,PayPal
+INV100424,P008,Power Bank,Accessories,4,29.99,119.96,2025-11-19 05:11:00,1103,Customer_1103,Germany,PayPal
+INV100425,P007,Monitor,Electronics,1,150.0,150.0,2025-11-11 06:28:00,1188,Customer_1188,Australia,PayPal
+INV100426,P007,Monitor,Electronics,1,150.0,150.0,2025-04-20 06:17:00,1180,Customer_1180,Germany,Credit Card
+INV100427,P010,Desk Lamp,Home,2,22.5,45.0,2025-04-06 11:20:00,1137,Customer_1137,USA,PayPal
+INV100428,P002,Keyboard,Electronics,5,25.5,127.5,2025-09-08 16:40:00,1171,Customer_1171,UK,Net Banking
+INV100429,P007,Monitor,Electronics,10,150.0,1500.0,2025-10-28 03:22:00,1100,Customer_1100,UK,PayPal
+INV100430,P010,Desk Lamp,Home,3,22.5,67.5,2025-12-28 09:58:00,1172,Customer_1172,Australia,Net Banking
+INV100431,P002,Keyboard,Electronics,3,25.5,76.5,2025-03-02 07:19:00,1080,Customer_1080,India,Debit Card
+INV100432,P006,Webcam,Electronics,3,55.0,165.0,2025-07-18 13:38:00,1130,Customer_1130,USA,Net Banking
+INV100433,P007,Monitor,Electronics,7,150.0,1050.0,2025-09-07 20:34:00,1047,Customer_1047,Germany,Debit Card
+INV100434,P009,Bluetooth Speaker,Electronics,3,39.99,119.97,2025-05-28 04:11:00,1125,Customer_1125,UK,PayPal
+INV100435,P010,Desk Lamp,Home,1,22.5,22.5,2025-01-05 15:08:00,1091,Customer_1091,USA,PayPal
+INV100436,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-09-11 13:43:00,1167,Customer_1167,Canada,PayPal
+INV100437,P008,Power Bank,Accessories,8,29.99,239.92,2025-02-12 18:01:00,1042,Customer_1042,USA,UPI
+INV100438,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-10-03 09:10:00,1057,Customer_1057,Canada,Net Banking
+INV100439,P008,Power Bank,Accessories,9,29.99,269.91,2025-02-27 18:07:00,1130,Customer_1130,UK,Net Banking
+INV100440,P006,Webcam,Electronics,9,55.0,495.0,2025-01-22 23:28:00,1193,Customer_1193,Australia,Debit Card
+INV100441,P007,Monitor,Electronics,2,150.0,300.0,2025-12-01 07:19:00,1188,Customer_1188,India,PayPal
+INV100442,P005,Headphones,Electronics,6,45.99,275.94,2025-08-13 03:49:00,1022,Customer_1022,USA,Debit Card
+INV100443,P010,Desk Lamp,Home,6,22.5,135.0,2025-11-09 20:27:00,1181,Customer_1181,USA,Net Banking
+INV100444,P003,USB Cable,Accessories,4,5.99,23.96,2025-01-31 18:22:00,1052,Customer_1052,Australia,UPI
+INV100445,P010,Desk Lamp,Home,9,22.5,202.5,2025-06-15 22:18:00,1043,Customer_1043,UK,Net Banking
+INV100446,P005,Headphones,Electronics,9,45.99,413.91,2025-02-18 04:48:00,1173,Customer_1173,Canada,Credit Card
+INV100447,P005,Headphones,Electronics,3,45.99,137.97,2025-03-09 07:09:00,1179,Customer_1179,Germany,UPI
+INV100448,P004,Laptop Stand,Accessories,7,35.0,245.0,2025-03-14 18:40:00,1125,Customer_1125,UK,PayPal
+INV100449,P007,Monitor,Electronics,8,150.0,1200.0,2025-11-21 02:25:00,1019,Customer_1019,Australia,UPI
+INV100450,P006,Webcam,Electronics,8,55.0,440.0,2025-06-17 18:00:00,1124,Customer_1124,Germany,Credit Card
+INV100451,P008,Power Bank,Accessories,6,29.99,179.94,2025-10-01 12:13:00,1016,Customer_1016,Canada,Debit Card
+INV100452,P008,Power Bank,Accessories,5,29.99,149.95,2025-05-26 10:35:00,1082,Customer_1082,Australia,Debit Card
+INV100453,P010,Desk Lamp,Home,8,22.5,180.0,2025-12-16 01:02:00,1087,Customer_1087,India,PayPal
+INV100454,P001,Wireless Mouse,Electronics,2,15.99,31.98,2025-08-14 14:00:00,1040,Customer_1040,Canada,Debit Card
+INV100455,P003,USB Cable,Accessories,5,5.99,29.95,2025-05-21 02:41:00,1040,Customer_1040,UK,UPI
+INV100456,P002,Keyboard,Electronics,6,25.5,153.0,2025-11-29 05:03:00,1170,Customer_1170,Canada,UPI
+INV100457,P004,Laptop Stand,Accessories,7,35.0,245.0,2025-02-16 22:06:00,1167,Customer_1167,India,Debit Card
+INV100458,P008,Power Bank,Accessories,2,29.99,59.98,2025-10-31 07:33:00,1033,Customer_1033,Germany,PayPal
+INV100459,P001,Wireless Mouse,Electronics,1,15.99,15.99,2025-06-25 03:55:00,1178,Customer_1178,Canada,Debit Card
+INV100460,P008,Power Bank,Accessories,2,29.99,59.98,2025-07-16 02:46:00,1058,Customer_1058,India,Credit Card
+INV100461,P006,Webcam,Electronics,6,55.0,330.0,2025-03-12 12:49:00,1076,Customer_1076,USA,Debit Card
+INV100462,P002,Keyboard,Electronics,9,25.5,229.5,2025-01-05 19:41:00,1144,Customer_1144,USA,PayPal
+INV100463,P006,Webcam,Electronics,4,55.0,220.0,2025-03-19 13:39:00,1160,Customer_1160,Germany,PayPal
+INV100464,P004,Laptop Stand,Accessories,2,35.0,70.0,2025-03-13 03:37:00,1025,Customer_1025,Germany,PayPal
+INV100465,P006,Webcam,Electronics,7,55.0,385.0,2025-03-13 07:17:00,1080,Customer_1080,Germany,Credit Card
+INV100466,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-11-04 23:38:00,1153,Customer_1153,UK,Credit Card
+INV100467,P005,Headphones,Electronics,4,45.99,183.96,2025-11-07 16:12:00,1132,Customer_1132,Germany,PayPal
+INV100468,P005,Headphones,Electronics,1,45.99,45.99,2025-05-03 15:24:00,1200,Customer_1200,India,Debit Card
+INV100469,P008,Power Bank,Accessories,10,29.99,299.9,2025-09-28 00:23:00,1018,Customer_1018,UK,Debit Card
+INV100470,P007,Monitor,Electronics,10,150.0,1500.0,2025-07-07 17:43:00,1107,Customer_1107,USA,PayPal
+INV100471,P002,Keyboard,Electronics,1,25.5,25.5,2025-02-04 00:16:00,1150,Customer_1150,USA,Credit Card
+INV100472,P001,Wireless Mouse,Electronics,7,15.99,111.93,2025-05-27 20:45:00,1129,Customer_1129,Australia,PayPal
+INV100473,P007,Monitor,Electronics,7,150.0,1050.0,2025-11-24 17:34:00,1021,Customer_1021,Australia,Debit Card
+INV100474,P005,Headphones,Electronics,2,45.99,91.98,2025-02-10 16:58:00,1079,Customer_1079,USA,Debit Card
+INV100475,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-10-28 20:48:00,1100,Customer_1100,Germany,Credit Card
+INV100476,P005,Headphones,Electronics,7,45.99,321.93,2025-05-03 01:15:00,1186,Customer_1186,India,PayPal
+INV100477,P002,Keyboard,Electronics,8,25.5,204.0,2025-11-08 01:19:00,1156,Customer_1156,Germany,Debit Card
+INV100478,P002,Keyboard,Electronics,1,25.5,25.5,2025-03-12 22:00:00,1181,Customer_1181,USA,PayPal
+INV100479,P006,Webcam,Electronics,9,55.0,495.0,2025-05-13 05:23:00,1132,Customer_1132,USA,UPI
+INV100480,P002,Keyboard,Electronics,1,25.5,25.5,2025-08-08 08:33:00,1085,Customer_1085,India,UPI
+INV100481,P010,Desk Lamp,Home,2,22.5,45.0,2025-08-22 16:23:00,1127,Customer_1127,India,PayPal
+INV100482,P010,Desk Lamp,Home,3,22.5,67.5,2025-03-22 08:49:00,1094,Customer_1094,India,Net Banking
+INV100483,P002,Keyboard,Electronics,4,25.5,102.0,2025-09-18 00:02:00,1189,Customer_1189,India,Debit Card
+INV100484,P001,Wireless Mouse,Electronics,8,15.99,127.92,2025-07-16 04:11:00,1093,Customer_1093,India,Net Banking
+INV100485,P007,Monitor,Electronics,4,150.0,600.0,2025-05-08 13:58:00,1082,Customer_1082,Germany,UPI
+INV100486,P005,Headphones,Electronics,2,45.99,91.98,2025-07-10 03:32:00,1146,Customer_1146,Germany,Credit Card
+INV100487,P003,USB Cable,Accessories,4,5.99,23.96,2025-01-24 12:04:00,1132,Customer_1132,Canada,UPI
+INV100488,P005,Headphones,Electronics,6,45.99,275.94,2025-10-11 14:00:00,1022,Customer_1022,UK,Debit Card
+INV100489,P005,Headphones,Electronics,10,45.99,459.9,2025-06-05 23:39:00,1200,Customer_1200,USA,PayPal
+INV100490,P006,Webcam,Electronics,10,55.0,550.0,2025-04-11 23:57:00,1126,Customer_1126,Australia,Debit Card
+INV100491,P003,USB Cable,Accessories,1,5.99,5.99,2025-01-13 07:34:00,1104,Customer_1104,UK,Credit Card
+INV100492,P006,Webcam,Electronics,1,55.0,55.0,2025-12-03 12:54:00,1194,Customer_1194,Germany,UPI
+INV100493,P002,Keyboard,Electronics,4,25.5,102.0,2025-05-02 13:31:00,1135,Customer_1135,India,Debit Card
+INV100494,P005,Headphones,Electronics,2,45.99,91.98,2025-04-29 16:26:00,1011,Customer_1011,Germany,UPI
+INV100495,P008,Power Bank,Accessories,2,29.99,59.98,2025-02-18 16:08:00,1148,Customer_1148,Germany,PayPal
+INV100496,P002,Keyboard,Electronics,10,25.5,255.0,2025-02-01 13:42:00,1145,Customer_1145,USA,Debit Card
+INV100497,P005,Headphones,Electronics,5,45.99,229.95,2025-07-21 22:53:00,1080,Customer_1080,Germany,UPI
+INV100498,P006,Webcam,Electronics,8,55.0,440.0,2025-04-30 02:12:00,1069,Customer_1069,USA,Net Banking
+INV100499,P002,Keyboard,Electronics,3,25.5,76.5,2025-03-26 14:29:00,1027,Customer_1027,UK,PayPal
+INV100500,P002,Keyboard,Electronics,9,25.5,229.5,2025-04-17 14:19:00,1091,Customer_1091,Canada,UPI
+INV100501,P002,Keyboard,Electronics,2,25.5,51.0,2025-12-18 09:52:00,1040,Customer_1040,Germany,Net Banking
+INV100502,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-03-17 02:45:00,1083,Customer_1083,USA,UPI
+INV100503,P007,Monitor,Electronics,9,150.0,1350.0,2025-12-13 09:16:00,1012,Customer_1012,USA,Credit Card
+INV100504,P007,Monitor,Electronics,8,150.0,1200.0,2025-10-09 07:06:00,1142,Customer_1142,Canada,Credit Card
+INV100505,P003,USB Cable,Accessories,2,5.99,11.98,2025-02-01 07:08:00,1003,Customer_1003,USA,PayPal
+INV100506,P006,Webcam,Electronics,2,55.0,110.0,2025-10-28 08:58:00,1149,Customer_1149,India,Credit Card
+INV100507,P002,Keyboard,Electronics,4,25.5,102.0,2025-08-16 04:05:00,1165,Customer_1165,UK,Credit Card
+INV100508,P001,Wireless Mouse,Electronics,8,15.99,127.92,2025-03-28 18:27:00,1012,Customer_1012,Germany,PayPal
+INV100509,P008,Power Bank,Accessories,1,29.99,29.99,2025-12-16 13:11:00,1097,Customer_1097,UK,Debit Card
+INV100510,P003,USB Cable,Accessories,5,5.99,29.95,2025-08-17 04:02:00,1071,Customer_1071,Australia,Net Banking
+INV100511,P010,Desk Lamp,Home,4,22.5,90.0,2025-06-01 15:26:00,1165,Customer_1165,Australia,PayPal
+INV100512,P001,Wireless Mouse,Electronics,2,15.99,31.98,2025-07-16 04:26:00,1071,Customer_1071,USA,Net Banking
+INV100513,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-07-15 22:22:00,1004,Customer_1004,Canada,Net Banking
+INV100514,P008,Power Bank,Accessories,6,29.99,179.94,2025-09-15 10:24:00,1144,Customer_1144,UK,Debit Card
+INV100515,P001,Wireless Mouse,Electronics,6,15.99,95.94,2025-04-23 00:57:00,1152,Customer_1152,UK,Credit Card
+INV100516,P008,Power Bank,Accessories,9,29.99,269.91,2025-10-27 07:10:00,1091,Customer_1091,India,Debit Card
+INV100517,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-01-29 07:36:00,1136,Customer_1136,Canada,UPI
+INV100518,P003,USB Cable,Accessories,3,5.99,17.97,2025-10-31 10:51:00,1060,Customer_1060,Germany,UPI
+INV100519,P010,Desk Lamp,Home,1,22.5,22.5,2025-12-25 11:36:00,1180,Customer_1180,Australia,Debit Card
+INV100520,P010,Desk Lamp,Home,4,22.5,90.0,2025-10-05 09:11:00,1126,Customer_1126,Canada,Credit Card
+INV100521,P002,Keyboard,Electronics,1,25.5,25.5,2025-11-05 07:01:00,1059,Customer_1059,Australia,PayPal
+INV100522,P001,Wireless Mouse,Electronics,6,15.99,95.94,2025-04-14 04:21:00,1157,Customer_1157,Germany,Debit Card
+INV100523,P006,Webcam,Electronics,1,55.0,55.0,2025-03-17 18:45:00,1005,Customer_1005,USA,Credit Card
+INV100524,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-07-11 22:42:00,1018,Customer_1018,Canada,Net Banking
+INV100525,P002,Keyboard,Electronics,6,25.5,153.0,2025-06-15 04:10:00,1077,Customer_1077,Germany,PayPal
+INV100526,P008,Power Bank,Accessories,6,29.99,179.94,2025-12-29 17:44:00,1044,Customer_1044,Australia,UPI
+INV100527,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-07-13 09:46:00,1044,Customer_1044,Germany,UPI
+INV100528,P003,USB Cable,Accessories,3,5.99,17.97,2025-01-01 22:36:00,1186,Customer_1186,Canada,Net Banking
+INV100529,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-06-12 19:14:00,1154,Customer_1154,Germany,Net Banking
+INV100530,P002,Keyboard,Electronics,8,25.5,204.0,2025-06-19 23:04:00,1036,Customer_1036,USA,UPI
+INV100531,P006,Webcam,Electronics,3,55.0,165.0,2025-02-15 22:42:00,1162,Customer_1162,Germany,UPI
+INV100532,P008,Power Bank,Accessories,1,29.99,29.99,2025-04-18 07:44:00,1067,Customer_1067,India,UPI
+INV100533,P005,Headphones,Electronics,2,45.99,91.98,2025-01-01 01:24:00,1184,Customer_1184,Canada,PayPal
+INV100534,P003,USB Cable,Accessories,7,5.99,41.93,2025-07-13 11:34:00,1126,Customer_1126,Canada,Credit Card
+INV100535,P008,Power Bank,Accessories,10,29.99,299.9,2025-12-18 07:10:00,1166,Customer_1166,Canada,Credit Card
+INV100536,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-06-13 08:06:00,1005,Customer_1005,India,UPI
+INV100537,P003,USB Cable,Accessories,7,5.99,41.93,2025-02-08 17:57:00,1041,Customer_1041,India,UPI
+INV100538,P010,Desk Lamp,Home,10,22.5,225.0,2025-12-27 00:27:00,1123,Customer_1123,Germany,Debit Card
+INV100539,P010,Desk Lamp,Home,7,22.5,157.5,2025-01-28 03:21:00,1040,Customer_1040,USA,Debit Card
+INV100540,P007,Monitor,Electronics,9,150.0,1350.0,2025-10-04 08:42:00,1184,Customer_1184,UK,UPI
+INV100541,P004,Laptop Stand,Accessories,2,35.0,70.0,2025-07-21 18:35:00,1012,Customer_1012,Canada,Debit Card
+INV100542,P001,Wireless Mouse,Electronics,6,15.99,95.94,2025-08-07 02:18:00,1000,Customer_1000,Germany,Net Banking
+INV100543,P008,Power Bank,Accessories,4,29.99,119.96,2025-01-14 06:10:00,1024,Customer_1024,Germany,UPI
+INV100544,P002,Keyboard,Electronics,8,25.5,204.0,2025-06-07 12:30:00,1029,Customer_1029,Canada,UPI
+INV100545,P002,Keyboard,Electronics,9,25.5,229.5,2025-04-05 11:56:00,1099,Customer_1099,Canada,UPI
+INV100546,P003,USB Cable,Accessories,8,5.99,47.92,2025-05-15 14:29:00,1011,Customer_1011,UK,Debit Card
+INV100547,P005,Headphones,Electronics,10,45.99,459.9,2025-03-19 22:42:00,1015,Customer_1015,India,Credit Card
+INV100548,P006,Webcam,Electronics,9,55.0,495.0,2025-10-29 07:35:00,1105,Customer_1105,India,PayPal
+INV100549,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-12-18 15:36:00,1137,Customer_1137,USA,PayPal
+INV100550,P005,Headphones,Electronics,2,45.99,91.98,2025-01-18 16:36:00,1101,Customer_1101,Australia,Net Banking
+INV100551,P010,Desk Lamp,Home,3,22.5,67.5,2025-08-18 05:10:00,1030,Customer_1030,USA,Debit Card
+INV100552,P003,USB Cable,Accessories,1,5.99,5.99,2025-02-10 21:27:00,1108,Customer_1108,USA,Debit Card
+INV100553,P010,Desk Lamp,Home,5,22.5,112.5,2025-02-04 02:24:00,1081,Customer_1081,Australia,PayPal
+INV100554,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-09-24 14:58:00,1070,Customer_1070,India,Net Banking
+INV100555,P010,Desk Lamp,Home,9,22.5,202.5,2025-08-03 03:26:00,1200,Customer_1200,USA,Debit Card
+INV100556,P010,Desk Lamp,Home,10,22.5,225.0,2025-02-21 03:36:00,1149,Customer_1149,India,UPI
+INV100557,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-05-16 12:41:00,1105,Customer_1105,Canada,Net Banking
+INV100558,P010,Desk Lamp,Home,8,22.5,180.0,2025-03-30 08:25:00,1009,Customer_1009,USA,Net Banking
+INV100559,P010,Desk Lamp,Home,7,22.5,157.5,2025-07-22 10:44:00,1009,Customer_1009,USA,Credit Card
+INV100560,P008,Power Bank,Accessories,5,29.99,149.95,2025-01-11 10:52:00,1095,Customer_1095,UK,UPI
+INV100561,P005,Headphones,Electronics,8,45.99,367.92,2025-12-17 03:55:00,1178,Customer_1178,USA,Debit Card
+INV100562,P005,Headphones,Electronics,8,45.99,367.92,2025-06-14 08:46:00,1198,Customer_1198,Canada,Net Banking
+INV100563,P002,Keyboard,Electronics,4,25.5,102.0,2025-04-19 13:47:00,1113,Customer_1113,Canada,Net Banking
+INV100564,P006,Webcam,Electronics,1,55.0,55.0,2025-03-23 02:19:00,1131,Customer_1131,Germany,Net Banking
+INV100565,P007,Monitor,Electronics,3,150.0,450.0,2025-09-26 18:01:00,1199,Customer_1199,USA,Debit Card
+INV100566,P004,Laptop Stand,Accessories,1,35.0,35.0,2025-01-17 14:03:00,1063,Customer_1063,UK,Debit Card
+INV100567,P005,Headphones,Electronics,6,45.99,275.94,2025-09-16 12:40:00,1118,Customer_1118,India,Credit Card
+INV100568,P004,Laptop Stand,Accessories,6,35.0,210.0,2025-11-01 14:11:00,1125,Customer_1125,Canada,Net Banking
+INV100569,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-03-25 08:47:00,1088,Customer_1088,Germany,Credit Card
+INV100570,P005,Headphones,Electronics,1,45.99,45.99,2025-01-26 05:54:00,1098,Customer_1098,Australia,Debit Card
+INV100571,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-04-16 08:41:00,1173,Customer_1173,Canada,Net Banking
+INV100572,P001,Wireless Mouse,Electronics,1,15.99,15.99,2025-03-09 20:11:00,1121,Customer_1121,Australia,Credit Card
+INV100573,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-06-06 22:45:00,1155,Customer_1155,Germany,UPI
+INV100574,P007,Monitor,Electronics,7,150.0,1050.0,2025-08-24 08:13:00,1089,Customer_1089,Canada,UPI
+INV100575,P009,Bluetooth Speaker,Electronics,10,39.99,399.9,2025-10-27 03:00:00,1101,Customer_1101,Australia,UPI
+INV100576,P009,Bluetooth Speaker,Electronics,10,39.99,399.9,2025-05-25 09:43:00,1155,Customer_1155,India,PayPal
+INV100577,P002,Keyboard,Electronics,6,25.5,153.0,2025-11-24 10:55:00,1070,Customer_1070,UK,UPI
+INV100578,P005,Headphones,Electronics,4,45.99,183.96,2025-09-22 07:57:00,1038,Customer_1038,India,Net Banking
+INV100579,P007,Monitor,Electronics,6,150.0,900.0,2025-03-13 23:01:00,1174,Customer_1174,Germany,PayPal
+INV100580,P005,Headphones,Electronics,5,45.99,229.95,2025-07-27 12:47:00,1107,Customer_1107,India,Net Banking
+INV100581,P010,Desk Lamp,Home,4,22.5,90.0,2025-04-24 21:34:00,1087,Customer_1087,Germany,PayPal
+INV100582,P006,Webcam,Electronics,9,55.0,495.0,2025-03-29 21:56:00,1076,Customer_1076,Australia,Debit Card
+INV100583,P005,Headphones,Electronics,2,45.99,91.98,2025-03-07 23:16:00,1120,Customer_1120,Germany,Net Banking
+INV100584,P003,USB Cable,Accessories,6,5.99,35.94,2025-02-15 07:22:00,1167,Customer_1167,USA,UPI
+INV100585,P007,Monitor,Electronics,6,150.0,900.0,2025-05-14 18:18:00,1095,Customer_1095,Canada,Credit Card
+INV100586,P008,Power Bank,Accessories,1,29.99,29.99,2025-10-26 18:39:00,1162,Customer_1162,India,PayPal
+INV100587,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-12-15 12:33:00,1030,Customer_1030,UK,PayPal
+INV100588,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-04-13 10:26:00,1035,Customer_1035,Australia,PayPal
+INV100589,P003,USB Cable,Accessories,6,5.99,35.94,2025-04-03 02:31:00,1183,Customer_1183,UK,Debit Card
+INV100590,P006,Webcam,Electronics,1,55.0,55.0,2025-08-20 08:13:00,1001,Customer_1001,USA,Net Banking
+INV100591,P003,USB Cable,Accessories,8,5.99,47.92,2025-02-15 04:39:00,1195,Customer_1195,Canada,PayPal
+INV100592,P007,Monitor,Electronics,7,150.0,1050.0,2025-07-16 00:02:00,1122,Customer_1122,Australia,Debit Card
+INV100593,P006,Webcam,Electronics,1,55.0,55.0,2025-09-29 06:01:00,1082,Customer_1082,Germany,Credit Card
+INV100594,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-06-26 09:08:00,1177,Customer_1177,India,PayPal
+INV100595,P009,Bluetooth Speaker,Electronics,10,39.99,399.9,2025-03-27 02:52:00,1078,Customer_1078,India,UPI
+INV100596,P005,Headphones,Electronics,8,45.99,367.92,2025-09-24 19:33:00,1186,Customer_1186,UK,PayPal
+INV100597,P003,USB Cable,Accessories,6,5.99,35.94,2025-07-03 06:10:00,1125,Customer_1125,Canada,Credit Card
+INV100598,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-03-09 06:46:00,1186,Customer_1186,India,Net Banking
+INV100599,P009,Bluetooth Speaker,Electronics,3,39.99,119.97,2025-07-07 22:41:00,1031,Customer_1031,India,PayPal
+INV100600,P005,Headphones,Electronics,9,45.99,413.91,2025-01-25 19:03:00,1159,Customer_1159,Germany,Credit Card
+INV100601,P001,Wireless Mouse,Electronics,1,15.99,15.99,2025-03-01 13:28:00,1176,Customer_1176,Canada,Credit Card
+INV100602,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-12-26 04:13:00,1121,Customer_1121,Germany,Credit Card
+INV100603,P005,Headphones,Electronics,7,45.99,321.93,2025-02-21 21:33:00,1169,Customer_1169,UK,Net Banking
+INV100604,P010,Desk Lamp,Home,3,22.5,67.5,2025-02-23 16:46:00,1107,Customer_1107,Australia,Credit Card
+INV100605,P005,Headphones,Electronics,2,45.99,91.98,2025-02-24 15:12:00,1200,Customer_1200,Australia,Debit Card
+INV100606,P005,Headphones,Electronics,9,45.99,413.91,2025-07-03 22:26:00,1051,Customer_1051,UK,Debit Card
+INV100607,P001,Wireless Mouse,Electronics,9,15.99,143.91,2025-04-17 22:59:00,1127,Customer_1127,Canada,UPI
+INV100608,P004,Laptop Stand,Accessories,1,35.0,35.0,2025-12-10 02:58:00,1003,Customer_1003,India,Net Banking
+INV100609,P008,Power Bank,Accessories,3,29.99,89.97,2025-09-19 02:46:00,1023,Customer_1023,Germany,Credit Card
+INV100610,P005,Headphones,Electronics,4,45.99,183.96,2025-06-01 08:29:00,1116,Customer_1116,India,Credit Card
+INV100611,P003,USB Cable,Accessories,1,5.99,5.99,2025-07-04 21:20:00,1074,Customer_1074,Canada,Credit Card
+INV100612,P002,Keyboard,Electronics,1,25.5,25.5,2025-03-12 21:41:00,1002,Customer_1002,USA,UPI
+INV100613,P006,Webcam,Electronics,8,55.0,440.0,2025-05-18 23:05:00,1159,Customer_1159,UK,UPI
+INV100614,P003,USB Cable,Accessories,2,5.99,11.98,2025-07-24 14:17:00,1102,Customer_1102,Canada,PayPal
+INV100615,P007,Monitor,Electronics,3,150.0,450.0,2025-03-09 22:46:00,1028,Customer_1028,India,Debit Card
+INV100616,P002,Keyboard,Electronics,7,25.5,178.5,2025-09-05 18:43:00,1151,Customer_1151,Canada,Debit Card
+INV100617,P010,Desk Lamp,Home,7,22.5,157.5,2025-07-03 19:01:00,1199,Customer_1199,Germany,Debit Card
+INV100618,P008,Power Bank,Accessories,8,29.99,239.92,2025-07-30 14:02:00,1028,Customer_1028,India,UPI
+INV100619,P006,Webcam,Electronics,1,55.0,55.0,2025-12-14 16:49:00,1180,Customer_1180,Germany,Net Banking
+INV100620,P010,Desk Lamp,Home,4,22.5,90.0,2025-06-23 16:33:00,1171,Customer_1171,Germany,Net Banking
+INV100621,P002,Keyboard,Electronics,7,25.5,178.5,2025-05-08 15:22:00,1169,Customer_1169,Germany,PayPal
+INV100622,P003,USB Cable,Accessories,9,5.99,53.91,2025-01-28 00:41:00,1156,Customer_1156,USA,Net Banking
+INV100623,P008,Power Bank,Accessories,8,29.99,239.92,2025-02-08 15:20:00,1042,Customer_1042,USA,UPI
+INV100624,P005,Headphones,Electronics,1,45.99,45.99,2025-04-25 17:41:00,1129,Customer_1129,Canada,PayPal
+INV100625,P004,Laptop Stand,Accessories,2,35.0,70.0,2025-08-16 18:28:00,1117,Customer_1117,India,PayPal
+INV100626,P008,Power Bank,Accessories,6,29.99,179.94,2025-09-12 23:41:00,1030,Customer_1030,India,Credit Card
+INV100627,P007,Monitor,Electronics,7,150.0,1050.0,2025-10-13 17:00:00,1009,Customer_1009,India,Net Banking
+INV100628,P010,Desk Lamp,Home,5,22.5,112.5,2025-10-15 06:41:00,1130,Customer_1130,Germany,PayPal
+INV100629,P006,Webcam,Electronics,6,55.0,330.0,2025-04-25 14:21:00,1013,Customer_1013,Australia,Net Banking
+INV100630,P010,Desk Lamp,Home,8,22.5,180.0,2025-12-03 11:45:00,1183,Customer_1183,Canada,Credit Card
+INV100631,P002,Keyboard,Electronics,4,25.5,102.0,2025-06-24 11:53:00,1000,Customer_1000,Germany,UPI
+INV100632,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-12-26 03:02:00,1095,Customer_1095,USA,PayPal
+INV100633,P003,USB Cable,Accessories,7,5.99,41.93,2025-05-11 19:12:00,1027,Customer_1027,USA,Credit Card
+INV100634,P007,Monitor,Electronics,4,150.0,600.0,2025-04-08 22:21:00,1117,Customer_1117,India,PayPal
+INV100635,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-08-19 14:42:00,1031,Customer_1031,Australia,Net Banking
+INV100636,P003,USB Cable,Accessories,8,5.99,47.92,2025-09-29 23:03:00,1001,Customer_1001,Australia,PayPal
+INV100637,P010,Desk Lamp,Home,8,22.5,180.0,2025-04-01 22:37:00,1130,Customer_1130,USA,Debit Card
+INV100638,P002,Keyboard,Electronics,7,25.5,178.5,2025-11-04 19:56:00,1168,Customer_1168,UK,Net Banking
+INV100639,P007,Monitor,Electronics,7,150.0,1050.0,2025-12-21 07:17:00,1155,Customer_1155,Canada,UPI
+INV100640,P005,Headphones,Electronics,8,45.99,367.92,2025-03-12 13:38:00,1034,Customer_1034,Germany,Net Banking
+INV100641,P005,Headphones,Electronics,9,45.99,413.91,2025-12-31 23:59:00,1080,Customer_1080,Australia,Debit Card
+INV100642,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-05-29 21:22:00,1159,Customer_1159,Germany,Debit Card
+INV100643,P003,USB Cable,Accessories,9,5.99,53.91,2025-12-22 20:20:00,1138,Customer_1138,Germany,Credit Card
+INV100644,P006,Webcam,Electronics,9,55.0,495.0,2025-10-26 18:42:00,1122,Customer_1122,Germany,PayPal
+INV100645,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-01-07 16:06:00,1108,Customer_1108,India,PayPal
+INV100646,P003,USB Cable,Accessories,1,5.99,5.99,2025-01-29 06:17:00,1171,Customer_1171,USA,UPI
+INV100647,P005,Headphones,Electronics,3,45.99,137.97,2025-12-20 09:13:00,1015,Customer_1015,Australia,Credit Card
+INV100648,P006,Webcam,Electronics,8,55.0,440.0,2025-11-12 21:47:00,1026,Customer_1026,Australia,Debit Card
+INV100649,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-09-19 22:18:00,1060,Customer_1060,Germany,Credit Card
+INV100650,P007,Monitor,Electronics,7,150.0,1050.0,2025-12-17 10:35:00,1106,Customer_1106,India,Credit Card
+INV100651,P005,Headphones,Electronics,4,45.99,183.96,2025-08-15 07:58:00,1158,Customer_1158,Germany,UPI
+INV100652,P010,Desk Lamp,Home,9,22.5,202.5,2025-11-05 06:49:00,1189,Customer_1189,Germany,Debit Card
+INV100653,P005,Headphones,Electronics,8,45.99,367.92,2025-12-16 02:11:00,1045,Customer_1045,USA,Net Banking
+INV100654,P002,Keyboard,Electronics,7,25.5,178.5,2025-08-08 08:35:00,1010,Customer_1010,UK,Debit Card
+INV100655,P003,USB Cable,Accessories,10,5.99,59.9,2025-01-03 10:29:00,1065,Customer_1065,Germany,Debit Card
+INV100656,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-11-02 01:49:00,1082,Customer_1082,Germany,Net Banking
+INV100657,P005,Headphones,Electronics,8,45.99,367.92,2025-10-09 11:04:00,1146,Customer_1146,Germany,UPI
+INV100658,P009,Bluetooth Speaker,Electronics,4,39.99,159.96,2025-09-24 02:50:00,1047,Customer_1047,Australia,Debit Card
+INV100659,P007,Monitor,Electronics,9,150.0,1350.0,2025-07-26 02:22:00,1137,Customer_1137,USA,Debit Card
+INV100660,P006,Webcam,Electronics,6,55.0,330.0,2025-05-31 06:48:00,1092,Customer_1092,Australia,Net Banking
+INV100661,P008,Power Bank,Accessories,9,29.99,269.91,2025-11-29 00:07:00,1192,Customer_1192,Germany,UPI
+INV100662,P008,Power Bank,Accessories,4,29.99,119.96,2025-11-11 19:15:00,1164,Customer_1164,India,UPI
+INV100663,P007,Monitor,Electronics,2,150.0,300.0,2025-05-12 17:46:00,1098,Customer_1098,UK,Credit Card
+INV100664,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-09-18 14:31:00,1131,Customer_1131,India,UPI
+INV100665,P004,Laptop Stand,Accessories,6,35.0,210.0,2025-02-12 03:10:00,1131,Customer_1131,Australia,Net Banking
+INV100666,P001,Wireless Mouse,Electronics,2,15.99,31.98,2025-12-10 20:49:00,1053,Customer_1053,USA,PayPal
+INV100667,P002,Keyboard,Electronics,4,25.5,102.0,2025-12-26 23:49:00,1137,Customer_1137,Canada,Credit Card
+INV100668,P003,USB Cable,Accessories,1,5.99,5.99,2025-06-19 01:05:00,1117,Customer_1117,India,Credit Card
+INV100669,P003,USB Cable,Accessories,5,5.99,29.95,2025-02-06 18:52:00,1142,Customer_1142,USA,UPI
+INV100670,P007,Monitor,Electronics,7,150.0,1050.0,2025-11-19 12:27:00,1115,Customer_1115,UK,Credit Card
+INV100671,P007,Monitor,Electronics,2,150.0,300.0,2025-01-04 20:46:00,1136,Customer_1136,Australia,Credit Card
+INV100672,P010,Desk Lamp,Home,1,22.5,22.5,2025-02-07 11:59:00,1179,Customer_1179,Australia,Credit Card
+INV100673,P005,Headphones,Electronics,5,45.99,229.95,2025-02-14 09:48:00,1155,Customer_1155,Canada,PayPal
+INV100674,P007,Monitor,Electronics,1,150.0,150.0,2025-03-22 17:14:00,1121,Customer_1121,USA,PayPal
+INV100675,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-03-15 09:43:00,1162,Customer_1162,Germany,UPI
+INV100676,P001,Wireless Mouse,Electronics,9,15.99,143.91,2025-03-14 03:02:00,1142,Customer_1142,India,Net Banking
+INV100677,P010,Desk Lamp,Home,7,22.5,157.5,2025-10-08 02:19:00,1137,Customer_1137,USA,UPI
+INV100678,P004,Laptop Stand,Accessories,7,35.0,245.0,2025-09-20 04:10:00,1165,Customer_1165,USA,Debit Card
+INV100679,P010,Desk Lamp,Home,5,22.5,112.5,2025-02-28 05:42:00,1049,Customer_1049,Australia,Credit Card
+INV100680,P009,Bluetooth Speaker,Electronics,8,39.99,319.92,2025-10-09 02:18:00,1165,Customer_1165,Germany,Credit Card
+INV100681,P005,Headphones,Electronics,2,45.99,91.98,2025-10-25 15:21:00,1050,Customer_1050,UK,Debit Card
+INV100682,P004,Laptop Stand,Accessories,2,35.0,70.0,2025-11-14 02:57:00,1072,Customer_1072,USA,UPI
+INV100683,P008,Power Bank,Accessories,8,29.99,239.92,2025-11-12 21:19:00,1084,Customer_1084,Germany,Net Banking
+INV100684,P003,USB Cable,Accessories,10,5.99,59.9,2025-07-06 10:27:00,1145,Customer_1145,USA,Credit Card
+INV100685,P006,Webcam,Electronics,4,55.0,220.0,2025-12-31 23:41:00,1056,Customer_1056,Canada,UPI
+INV100686,P006,Webcam,Electronics,3,55.0,165.0,2025-06-19 15:29:00,1173,Customer_1173,Canada,UPI
+INV100687,P005,Headphones,Electronics,8,45.99,367.92,2025-02-25 05:41:00,1141,Customer_1141,Australia,Credit Card
+INV100688,P005,Headphones,Electronics,3,45.99,137.97,2025-04-11 08:46:00,1137,Customer_1137,Germany,Credit Card
+INV100689,P002,Keyboard,Electronics,1,25.5,25.5,2025-11-20 00:52:00,1129,Customer_1129,Australia,Net Banking
+INV100690,P007,Monitor,Electronics,10,150.0,1500.0,2025-01-19 17:16:00,1054,Customer_1054,Australia,Net Banking
+INV100691,P008,Power Bank,Accessories,3,29.99,89.97,2025-07-20 07:57:00,1093,Customer_1093,Australia,UPI
+INV100692,P003,USB Cable,Accessories,8,5.99,47.92,2025-09-19 02:25:00,1128,Customer_1128,UK,Net Banking
+INV100693,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-12-17 05:48:00,1157,Customer_1157,Australia,Debit Card
+INV100694,P008,Power Bank,Accessories,3,29.99,89.97,2025-10-17 18:42:00,1045,Customer_1045,USA,PayPal
+INV100695,P006,Webcam,Electronics,1,55.0,55.0,2025-09-07 07:04:00,1056,Customer_1056,UK,UPI
+INV100696,P004,Laptop Stand,Accessories,1,35.0,35.0,2025-04-16 16:58:00,1171,Customer_1171,UK,PayPal
+INV100697,P008,Power Bank,Accessories,8,29.99,239.92,2025-01-21 20:20:00,1011,Customer_1011,India,Net Banking
+INV100698,P005,Headphones,Electronics,5,45.99,229.95,2025-10-06 18:11:00,1148,Customer_1148,Canada,PayPal
+INV100699,P006,Webcam,Electronics,10,55.0,550.0,2025-02-09 16:16:00,1167,Customer_1167,Canada,Debit Card
+INV100700,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-06-26 15:50:00,1090,Customer_1090,Canada,Net Banking
+INV100701,P001,Wireless Mouse,Electronics,9,15.99,143.91,2025-08-14 05:14:00,1035,Customer_1035,India,Net Banking
+INV100702,P005,Headphones,Electronics,4,45.99,183.96,2025-04-06 05:23:00,1038,Customer_1038,Australia,Credit Card
+INV100703,P004,Laptop Stand,Accessories,7,35.0,245.0,2025-02-28 15:43:00,1084,Customer_1084,Canada,PayPal
+INV100704,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-11-28 13:01:00,1041,Customer_1041,USA,Credit Card
+INV100705,P003,USB Cable,Accessories,10,5.99,59.9,2025-03-24 04:40:00,1151,Customer_1151,Australia,Credit Card
+INV100706,P010,Desk Lamp,Home,3,22.5,67.5,2025-03-27 08:59:00,1014,Customer_1014,USA,Net Banking
+INV100707,P007,Monitor,Electronics,10,150.0,1500.0,2025-11-23 00:56:00,1144,Customer_1144,Germany,UPI
+INV100708,P002,Keyboard,Electronics,4,25.5,102.0,2025-11-07 15:55:00,1114,Customer_1114,Canada,Debit Card
+INV100709,P004,Laptop Stand,Accessories,7,35.0,245.0,2025-03-15 18:52:00,1153,Customer_1153,USA,Net Banking
+INV100710,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-12-18 10:59:00,1042,Customer_1042,Canada,Net Banking
+INV100711,P010,Desk Lamp,Home,2,22.5,45.0,2025-07-13 12:08:00,1058,Customer_1058,India,Credit Card
+INV100712,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-12-17 13:52:00,1129,Customer_1129,USA,Net Banking
+INV100713,P002,Keyboard,Electronics,3,25.5,76.5,2025-11-11 19:02:00,1121,Customer_1121,Australia,Net Banking
+INV100714,P002,Keyboard,Electronics,2,25.5,51.0,2025-12-04 04:57:00,1123,Customer_1123,Australia,Net Banking
+INV100715,P001,Wireless Mouse,Electronics,7,15.99,111.93,2025-08-04 11:55:00,1133,Customer_1133,India,Net Banking
+INV100716,P007,Monitor,Electronics,4,150.0,600.0,2025-07-15 11:37:00,1123,Customer_1123,Germany,Net Banking
+INV100717,P002,Keyboard,Electronics,7,25.5,178.5,2025-05-11 15:49:00,1034,Customer_1034,USA,Credit Card
+INV100718,P005,Headphones,Electronics,10,45.99,459.9,2025-07-29 08:12:00,1139,Customer_1139,India,Credit Card
+INV100719,P010,Desk Lamp,Home,9,22.5,202.5,2025-09-24 00:24:00,1030,Customer_1030,Germany,Debit Card
+INV100720,P006,Webcam,Electronics,7,55.0,385.0,2025-02-24 04:27:00,1092,Customer_1092,Germany,Net Banking
+INV100721,P005,Headphones,Electronics,5,45.99,229.95,2025-08-05 18:23:00,1137,Customer_1137,Australia,UPI
+INV100722,P007,Monitor,Electronics,4,150.0,600.0,2025-10-10 17:30:00,1105,Customer_1105,USA,UPI
+INV100723,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-05-10 09:36:00,1123,Customer_1123,UK,PayPal
+INV100724,P003,USB Cable,Accessories,2,5.99,11.98,2025-04-28 14:50:00,1191,Customer_1191,Germany,Debit Card
+INV100725,P002,Keyboard,Electronics,4,25.5,102.0,2025-07-25 10:51:00,1130,Customer_1130,Australia,Net Banking
+INV100726,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-11-22 00:51:00,1099,Customer_1099,India,Debit Card
+INV100727,P008,Power Bank,Accessories,10,29.99,299.9,2025-02-15 02:16:00,1111,Customer_1111,USA,UPI
+INV100728,P002,Keyboard,Electronics,10,25.5,255.0,2025-07-16 12:39:00,1009,Customer_1009,Germany,Net Banking
+INV100729,P005,Headphones,Electronics,10,45.99,459.9,2025-03-31 20:31:00,1014,Customer_1014,Canada,Credit Card
+INV100730,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-04-10 01:50:00,1073,Customer_1073,Australia,Net Banking
+INV100731,P009,Bluetooth Speaker,Electronics,4,39.99,159.96,2025-03-28 21:02:00,1157,Customer_1157,UK,Debit Card
+INV100732,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-05-22 12:22:00,1022,Customer_1022,Germany,PayPal
+INV100733,P007,Monitor,Electronics,10,150.0,1500.0,2025-09-23 00:47:00,1051,Customer_1051,Germany,Credit Card
+INV100734,P002,Keyboard,Electronics,9,25.5,229.5,2025-10-14 18:22:00,1072,Customer_1072,UK,UPI
+INV100735,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-08-21 12:36:00,1049,Customer_1049,India,UPI
+INV100736,P003,USB Cable,Accessories,7,5.99,41.93,2025-02-24 17:04:00,1129,Customer_1129,Australia,UPI
+INV100737,P006,Webcam,Electronics,2,55.0,110.0,2025-05-12 17:52:00,1131,Customer_1131,Australia,UPI
+INV100738,P008,Power Bank,Accessories,7,29.99,209.93,2025-09-05 07:48:00,1144,Customer_1144,UK,PayPal
+INV100739,P008,Power Bank,Accessories,10,29.99,299.9,2025-09-04 03:16:00,1007,Customer_1007,India,PayPal
+INV100740,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-07-31 11:33:00,1080,Customer_1080,Australia,Credit Card
+INV100741,P005,Headphones,Electronics,4,45.99,183.96,2025-02-17 12:43:00,1073,Customer_1073,Germany,UPI
+INV100742,P002,Keyboard,Electronics,9,25.5,229.5,2025-09-01 10:22:00,1045,Customer_1045,USA,Net Banking
+INV100743,P005,Headphones,Electronics,3,45.99,137.97,2025-12-16 06:31:00,1191,Customer_1191,Germany,Debit Card
+INV100744,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-04-16 07:12:00,1067,Customer_1067,USA,Net Banking
+INV100745,P006,Webcam,Electronics,3,55.0,165.0,2025-02-24 03:58:00,1199,Customer_1199,India,PayPal
+INV100746,P010,Desk Lamp,Home,1,22.5,22.5,2025-10-05 01:54:00,1195,Customer_1195,Canada,UPI
+INV100747,P010,Desk Lamp,Home,6,22.5,135.0,2025-10-22 08:31:00,1126,Customer_1126,USA,Net Banking
+INV100748,P005,Headphones,Electronics,7,45.99,321.93,2025-10-23 04:03:00,1056,Customer_1056,Australia,PayPal
+INV100749,P008,Power Bank,Accessories,9,29.99,269.91,2025-09-15 11:25:00,1008,Customer_1008,Germany,Debit Card
+INV100750,P008,Power Bank,Accessories,2,29.99,59.98,2025-09-23 14:20:00,1178,Customer_1178,Germany,Credit Card
+INV100751,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-10-25 03:20:00,1097,Customer_1097,UK,Net Banking
+INV100752,P005,Headphones,Electronics,3,45.99,137.97,2025-05-15 07:17:00,1140,Customer_1140,Canada,Net Banking
+INV100753,P006,Webcam,Electronics,6,55.0,330.0,2025-09-13 13:13:00,1047,Customer_1047,Canada,UPI
+INV100754,P006,Webcam,Electronics,7,55.0,385.0,2025-08-19 05:36:00,1071,Customer_1071,USA,Net Banking
+INV100755,P004,Laptop Stand,Accessories,2,35.0,70.0,2025-05-19 07:35:00,1184,Customer_1184,Canada,PayPal
+INV100756,P004,Laptop Stand,Accessories,3,35.0,105.0,2025-03-18 15:51:00,1189,Customer_1189,India,Debit Card
+INV100757,P007,Monitor,Electronics,8,150.0,1200.0,2025-11-19 16:34:00,1034,Customer_1034,Germany,UPI
+INV100758,P008,Power Bank,Accessories,5,29.99,149.95,2025-10-15 18:03:00,1064,Customer_1064,Canada,Credit Card
+INV100759,P003,USB Cable,Accessories,1,5.99,5.99,2025-05-11 15:53:00,1055,Customer_1055,Germany,Credit Card
+INV100760,P008,Power Bank,Accessories,6,29.99,179.94,2025-07-04 11:35:00,1066,Customer_1066,Australia,UPI
+INV100761,P006,Webcam,Electronics,1,55.0,55.0,2025-03-04 11:55:00,1105,Customer_1105,Germany,Net Banking
+INV100762,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-11-29 20:34:00,1147,Customer_1147,USA,UPI
+INV100763,P006,Webcam,Electronics,6,55.0,330.0,2025-09-19 15:49:00,1172,Customer_1172,Germany,PayPal
+INV100764,P002,Keyboard,Electronics,7,25.5,178.5,2025-05-27 14:40:00,1157,Customer_1157,USA,Debit Card
+INV100765,P006,Webcam,Electronics,7,55.0,385.0,2025-11-10 18:25:00,1161,Customer_1161,India,Credit Card
+INV100766,P003,USB Cable,Accessories,6,5.99,35.94,2025-06-10 10:41:00,1058,Customer_1058,UK,UPI
+INV100767,P010,Desk Lamp,Home,7,22.5,157.5,2025-08-16 11:47:00,1069,Customer_1069,Australia,Net Banking
+INV100768,P008,Power Bank,Accessories,7,29.99,209.93,2025-04-05 00:08:00,1042,Customer_1042,Germany,Debit Card
+INV100769,P005,Headphones,Electronics,2,45.99,91.98,2025-03-27 12:06:00,1053,Customer_1053,India,Credit Card
+INV100770,P008,Power Bank,Accessories,9,29.99,269.91,2025-01-14 12:33:00,1013,Customer_1013,India,Credit Card
+INV100771,P005,Headphones,Electronics,10,45.99,459.9,2025-02-13 20:59:00,1039,Customer_1039,Canada,UPI
+INV100772,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-05-26 14:40:00,1188,Customer_1188,USA,Debit Card
+INV100773,P009,Bluetooth Speaker,Electronics,3,39.99,119.97,2025-01-18 21:22:00,1007,Customer_1007,UK,PayPal
+INV100774,P008,Power Bank,Accessories,9,29.99,269.91,2025-10-08 14:08:00,1069,Customer_1069,Germany,Net Banking
+INV100775,P003,USB Cable,Accessories,10,5.99,59.9,2025-08-22 20:47:00,1152,Customer_1152,Germany,Net Banking
+INV100776,P007,Monitor,Electronics,9,150.0,1350.0,2025-11-24 17:19:00,1163,Customer_1163,UK,PayPal
+INV100777,P009,Bluetooth Speaker,Electronics,4,39.99,159.96,2025-08-15 09:23:00,1022,Customer_1022,Canada,UPI
+INV100778,P003,USB Cable,Accessories,5,5.99,29.95,2025-01-01 16:52:00,1002,Customer_1002,USA,UPI
+INV100779,P005,Headphones,Electronics,8,45.99,367.92,2025-01-05 22:59:00,1136,Customer_1136,Canada,PayPal
+INV100780,P005,Headphones,Electronics,1,45.99,45.99,2025-08-09 09:38:00,1196,Customer_1196,USA,Credit Card
+INV100781,P009,Bluetooth Speaker,Electronics,6,39.99,239.94,2025-07-30 17:27:00,1048,Customer_1048,Canada,Debit Card
+INV100782,P003,USB Cable,Accessories,7,5.99,41.93,2025-04-23 08:05:00,1096,Customer_1096,Canada,Debit Card
+INV100783,P009,Bluetooth Speaker,Electronics,10,39.99,399.9,2025-12-17 08:18:00,1177,Customer_1177,Germany,Net Banking
+INV100784,P005,Headphones,Electronics,7,45.99,321.93,2025-02-05 05:08:00,1048,Customer_1048,UK,Credit Card
+INV100785,P008,Power Bank,Accessories,10,29.99,299.9,2025-05-20 22:39:00,1115,Customer_1115,Canada,Debit Card
+INV100786,P006,Webcam,Electronics,1,55.0,55.0,2025-01-26 17:01:00,1038,Customer_1038,USA,Credit Card
+INV100787,P005,Headphones,Electronics,5,45.99,229.95,2025-08-13 23:00:00,1032,Customer_1032,USA,Credit Card
+INV100788,P003,USB Cable,Accessories,1,5.99,5.99,2025-04-22 10:26:00,1126,Customer_1126,UK,PayPal
+INV100789,P006,Webcam,Electronics,8,55.0,440.0,2025-01-17 10:05:00,1178,Customer_1178,USA,Credit Card
+INV100790,P005,Headphones,Electronics,7,45.99,321.93,2025-10-06 15:11:00,1018,Customer_1018,USA,UPI
+INV100791,P007,Monitor,Electronics,1,150.0,150.0,2025-05-08 12:49:00,1031,Customer_1031,Canada,Debit Card
+INV100792,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-02-18 16:42:00,1117,Customer_1117,USA,PayPal
+INV100793,P007,Monitor,Electronics,5,150.0,750.0,2025-03-23 20:46:00,1082,Customer_1082,India,Net Banking
+INV100794,P009,Bluetooth Speaker,Electronics,2,39.99,79.98,2025-09-04 20:19:00,1064,Customer_1064,USA,UPI
+INV100795,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-05-01 20:27:00,1028,Customer_1028,UK,Credit Card
+INV100796,P003,USB Cable,Accessories,5,5.99,29.95,2025-03-03 12:50:00,1149,Customer_1149,USA,Credit Card
+INV100797,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-12-20 15:44:00,1200,Customer_1200,Australia,Debit Card
+INV100798,P006,Webcam,Electronics,2,55.0,110.0,2025-03-22 15:05:00,1063,Customer_1063,Germany,Net Banking
+INV100799,P006,Webcam,Electronics,1,55.0,55.0,2025-07-02 20:09:00,1015,Customer_1015,Germany,Net Banking
+INV100800,P002,Keyboard,Electronics,3,25.5,76.5,2025-04-30 10:35:00,1124,Customer_1124,Germany,UPI
+INV100801,P008,Power Bank,Accessories,4,29.99,119.96,2025-12-19 12:22:00,1005,Customer_1005,Germany,Debit Card
+INV100802,P005,Headphones,Electronics,1,45.99,45.99,2025-12-28 14:35:00,1124,Customer_1124,UK,Net Banking
+INV100803,P008,Power Bank,Accessories,4,29.99,119.96,2025-04-06 17:22:00,1145,Customer_1145,UK,PayPal
+INV100804,P005,Headphones,Electronics,10,45.99,459.9,2025-03-24 02:33:00,1141,Customer_1141,USA,PayPal
+INV100805,P005,Headphones,Electronics,5,45.99,229.95,2025-07-07 14:00:00,1138,Customer_1138,Germany,Net Banking
+INV100806,P007,Monitor,Electronics,3,150.0,450.0,2025-11-14 11:49:00,1004,Customer_1004,Australia,Debit Card
+INV100807,P006,Webcam,Electronics,2,55.0,110.0,2025-10-03 12:12:00,1168,Customer_1168,Australia,PayPal
+INV100808,P009,Bluetooth Speaker,Electronics,3,39.99,119.97,2025-05-25 10:26:00,1156,Customer_1156,Germany,UPI
+INV100809,P002,Keyboard,Electronics,2,25.5,51.0,2025-12-04 02:02:00,1133,Customer_1133,USA,Debit Card
+INV100810,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-09-06 06:06:00,1027,Customer_1027,India,Net Banking
+INV100811,P007,Monitor,Electronics,8,150.0,1200.0,2025-11-16 22:37:00,1134,Customer_1134,UK,Credit Card
+INV100812,P006,Webcam,Electronics,4,55.0,220.0,2025-02-06 00:59:00,1155,Customer_1155,USA,PayPal
+INV100813,P002,Keyboard,Electronics,8,25.5,204.0,2025-02-01 11:35:00,1163,Customer_1163,Germany,PayPal
+INV100814,P006,Webcam,Electronics,1,55.0,55.0,2025-05-17 16:02:00,1157,Customer_1157,Germany,Credit Card
+INV100815,P005,Headphones,Electronics,2,45.99,91.98,2025-09-23 03:06:00,1055,Customer_1055,Germany,Debit Card
+INV100816,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-04-09 16:42:00,1048,Customer_1048,USA,Net Banking
+INV100817,P003,USB Cable,Accessories,9,5.99,53.91,2025-10-13 13:47:00,1191,Customer_1191,India,Net Banking
+INV100818,P006,Webcam,Electronics,8,55.0,440.0,2025-12-07 13:56:00,1179,Customer_1179,India,Debit Card
+INV100819,P003,USB Cable,Accessories,9,5.99,53.91,2025-09-16 10:42:00,1102,Customer_1102,USA,Net Banking
+INV100820,P010,Desk Lamp,Home,8,22.5,180.0,2025-06-11 17:20:00,1090,Customer_1090,UK,PayPal
+INV100821,P007,Monitor,Electronics,6,150.0,900.0,2025-05-04 18:34:00,1155,Customer_1155,USA,PayPal
+INV100822,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-08-20 14:25:00,1092,Customer_1092,India,Credit Card
+INV100823,P005,Headphones,Electronics,10,45.99,459.9,2025-09-23 04:56:00,1004,Customer_1004,UK,Credit Card
+INV100824,P005,Headphones,Electronics,4,45.99,183.96,2025-06-11 00:49:00,1054,Customer_1054,Germany,UPI
+INV100825,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-10-20 18:09:00,1142,Customer_1142,India,Credit Card
+INV100826,P008,Power Bank,Accessories,6,29.99,179.94,2025-03-12 08:23:00,1039,Customer_1039,Australia,Debit Card
+INV100827,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-02-17 18:25:00,1076,Customer_1076,Australia,Debit Card
+INV100828,P002,Keyboard,Electronics,6,25.5,153.0,2025-03-30 15:52:00,1123,Customer_1123,Germany,Net Banking
+INV100829,P002,Keyboard,Electronics,10,25.5,255.0,2025-06-03 01:46:00,1164,Customer_1164,Australia,PayPal
+INV100830,P002,Keyboard,Electronics,1,25.5,25.5,2025-06-21 11:56:00,1197,Customer_1197,Canada,PayPal
+INV100831,P002,Keyboard,Electronics,4,25.5,102.0,2025-12-01 19:59:00,1191,Customer_1191,India,PayPal
+INV100832,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-01-22 10:34:00,1134,Customer_1134,Australia,Debit Card
+INV100833,P006,Webcam,Electronics,9,55.0,495.0,2025-04-24 04:03:00,1178,Customer_1178,Germany,PayPal
+INV100834,P008,Power Bank,Accessories,10,29.99,299.9,2025-09-16 02:14:00,1147,Customer_1147,Canada,UPI
+INV100835,P007,Monitor,Electronics,3,150.0,450.0,2025-06-22 02:30:00,1033,Customer_1033,Australia,Credit Card
+INV100836,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-02-13 12:32:00,1067,Customer_1067,Canada,Debit Card
+INV100837,P003,USB Cable,Accessories,8,5.99,47.92,2025-04-12 15:25:00,1143,Customer_1143,Germany,Net Banking
+INV100838,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-09-26 07:15:00,1157,Customer_1157,India,UPI
+INV100839,P007,Monitor,Electronics,6,150.0,900.0,2025-10-22 02:07:00,1175,Customer_1175,Germany,PayPal
+INV100840,P007,Monitor,Electronics,6,150.0,900.0,2025-04-08 10:22:00,1089,Customer_1089,Australia,Credit Card
+INV100841,P005,Headphones,Electronics,3,45.99,137.97,2025-11-12 14:39:00,1089,Customer_1089,USA,PayPal
+INV100842,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-12-17 11:09:00,1051,Customer_1051,Germany,Credit Card
+INV100843,P002,Keyboard,Electronics,1,25.5,25.5,2025-11-14 04:55:00,1062,Customer_1062,UK,Credit Card
+INV100844,P006,Webcam,Electronics,2,55.0,110.0,2025-08-19 15:01:00,1078,Customer_1078,UK,Debit Card
+INV100845,P009,Bluetooth Speaker,Electronics,4,39.99,159.96,2025-10-07 16:48:00,1052,Customer_1052,UK,Net Banking
+INV100846,P008,Power Bank,Accessories,10,29.99,299.9,2025-03-14 22:44:00,1186,Customer_1186,Germany,Credit Card
+INV100847,P007,Monitor,Electronics,10,150.0,1500.0,2025-09-27 01:16:00,1169,Customer_1169,USA,Credit Card
+INV100848,P005,Headphones,Electronics,4,45.99,183.96,2025-11-13 08:03:00,1178,Customer_1178,Canada,Credit Card
+INV100849,P002,Keyboard,Electronics,7,25.5,178.5,2025-05-19 21:54:00,1169,Customer_1169,Germany,UPI
+INV100850,P002,Keyboard,Electronics,1,25.5,25.5,2025-11-29 12:14:00,1074,Customer_1074,Canada,Net Banking
+INV100851,P002,Keyboard,Electronics,6,25.5,153.0,2025-11-02 17:05:00,1124,Customer_1124,USA,Debit Card
+INV100852,P009,Bluetooth Speaker,Electronics,8,39.99,319.92,2025-12-31 00:02:00,1143,Customer_1143,USA,Net Banking
+INV100853,P005,Headphones,Electronics,6,45.99,275.94,2025-07-21 23:10:00,1125,Customer_1125,India,UPI
+INV100854,P006,Webcam,Electronics,6,55.0,330.0,2025-06-04 07:32:00,1160,Customer_1160,UK,Credit Card
+INV100855,P005,Headphones,Electronics,7,45.99,321.93,2025-10-12 08:14:00,1007,Customer_1007,USA,UPI
+INV100856,P007,Monitor,Electronics,3,150.0,450.0,2025-07-15 16:43:00,1022,Customer_1022,Australia,Debit Card
+INV100857,P007,Monitor,Electronics,4,150.0,600.0,2025-03-20 13:19:00,1146,Customer_1146,Australia,UPI
+INV100858,P008,Power Bank,Accessories,9,29.99,269.91,2025-04-16 20:08:00,1033,Customer_1033,Australia,Net Banking
+INV100859,P004,Laptop Stand,Accessories,3,35.0,105.0,2025-12-19 22:57:00,1079,Customer_1079,Australia,Debit Card
+INV100860,P007,Monitor,Electronics,3,150.0,450.0,2025-10-17 05:20:00,1167,Customer_1167,India,Net Banking
+INV100861,P009,Bluetooth Speaker,Electronics,2,39.99,79.98,2025-06-12 04:46:00,1047,Customer_1047,India,UPI
+INV100862,P007,Monitor,Electronics,7,150.0,1050.0,2025-08-15 23:59:00,1077,Customer_1077,Germany,UPI
+INV100863,P003,USB Cable,Accessories,4,5.99,23.96,2025-03-09 05:01:00,1027,Customer_1027,Australia,Net Banking
+INV100864,P005,Headphones,Electronics,10,45.99,459.9,2025-11-10 07:38:00,1145,Customer_1145,USA,Debit Card
+INV100865,P001,Wireless Mouse,Electronics,6,15.99,95.94,2025-12-19 15:08:00,1020,Customer_1020,Australia,Net Banking
+INV100866,P008,Power Bank,Accessories,6,29.99,179.94,2025-07-18 15:30:00,1047,Customer_1047,USA,Debit Card
+INV100867,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-07-29 00:59:00,1008,Customer_1008,UK,PayPal
+INV100868,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-04-15 02:11:00,1193,Customer_1193,Canada,Net Banking
+INV100869,P008,Power Bank,Accessories,6,29.99,179.94,2025-05-07 13:25:00,1117,Customer_1117,India,Net Banking
+INV100870,P007,Monitor,Electronics,6,150.0,900.0,2025-11-10 23:36:00,1100,Customer_1100,Australia,Net Banking
+INV100871,P009,Bluetooth Speaker,Electronics,1,39.99,39.99,2025-02-25 14:29:00,1133,Customer_1133,India,Debit Card
+INV100872,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-01-21 17:24:00,1101,Customer_1101,Australia,Credit Card
+INV100873,P004,Laptop Stand,Accessories,5,35.0,175.0,2025-07-23 09:49:00,1112,Customer_1112,UK,PayPal
+INV100874,P003,USB Cable,Accessories,7,5.99,41.93,2025-11-10 01:44:00,1075,Customer_1075,Australia,Debit Card
+INV100875,P008,Power Bank,Accessories,8,29.99,239.92,2025-09-14 03:11:00,1023,Customer_1023,Australia,Net Banking
+INV100876,P003,USB Cable,Accessories,7,5.99,41.93,2025-06-15 14:01:00,1105,Customer_1105,USA,PayPal
+INV100877,P010,Desk Lamp,Home,4,22.5,90.0,2025-02-16 08:20:00,1116,Customer_1116,Germany,Debit Card
+INV100878,P002,Keyboard,Electronics,2,25.5,51.0,2025-12-28 14:40:00,1029,Customer_1029,UK,Credit Card
+INV100879,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-09-19 19:10:00,1186,Customer_1186,Canada,Net Banking
+INV100880,P007,Monitor,Electronics,1,150.0,150.0,2025-03-29 10:36:00,1196,Customer_1196,Germany,Debit Card
+INV100881,P003,USB Cable,Accessories,3,5.99,17.97,2025-12-31 01:26:00,1045,Customer_1045,UK,UPI
+INV100882,P008,Power Bank,Accessories,5,29.99,149.95,2025-04-03 03:57:00,1160,Customer_1160,USA,Debit Card
+INV100883,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-05-10 00:29:00,1195,Customer_1195,Canada,PayPal
+INV100884,P009,Bluetooth Speaker,Electronics,1,39.99,39.99,2025-09-10 07:13:00,1155,Customer_1155,Australia,PayPal
+INV100885,P008,Power Bank,Accessories,7,29.99,209.93,2025-02-10 19:38:00,1113,Customer_1113,India,Debit Card
+INV100886,P009,Bluetooth Speaker,Electronics,5,39.99,199.95,2025-11-18 17:52:00,1158,Customer_1158,USA,Credit Card
+INV100887,P003,USB Cable,Accessories,3,5.99,17.97,2025-12-01 11:02:00,1014,Customer_1014,USA,Credit Card
+INV100888,P010,Desk Lamp,Home,10,22.5,225.0,2025-06-19 02:03:00,1076,Customer_1076,India,PayPal
+INV100889,P003,USB Cable,Accessories,3,5.99,17.97,2025-05-26 19:42:00,1172,Customer_1172,Germany,Net Banking
+INV100890,P010,Desk Lamp,Home,9,22.5,202.5,2025-08-22 23:37:00,1045,Customer_1045,UK,Credit Card
+INV100891,P002,Keyboard,Electronics,5,25.5,127.5,2025-07-08 12:52:00,1082,Customer_1082,India,PayPal
+INV100892,P009,Bluetooth Speaker,Electronics,2,39.99,79.98,2025-08-30 04:07:00,1074,Customer_1074,Germany,UPI
+INV100893,P006,Webcam,Electronics,9,55.0,495.0,2025-09-26 06:44:00,1105,Customer_1105,USA,Net Banking
+INV100894,P001,Wireless Mouse,Electronics,2,15.99,31.98,2025-11-19 16:05:00,1146,Customer_1146,Canada,Net Banking
+INV100895,P005,Headphones,Electronics,7,45.99,321.93,2025-06-12 08:33:00,1155,Customer_1155,Australia,Net Banking
+INV100896,P006,Webcam,Electronics,3,55.0,165.0,2025-10-16 15:33:00,1157,Customer_1157,Germany,PayPal
+INV100897,P008,Power Bank,Accessories,3,29.99,89.97,2025-04-30 22:18:00,1156,Customer_1156,USA,Credit Card
+INV100898,P002,Keyboard,Electronics,1,25.5,25.5,2025-11-17 03:47:00,1119,Customer_1119,USA,Net Banking
+INV100899,P007,Monitor,Electronics,7,150.0,1050.0,2025-06-20 11:35:00,1011,Customer_1011,Germany,Debit Card
+INV100900,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-05-25 08:50:00,1176,Customer_1176,India,UPI
+INV100901,P005,Headphones,Electronics,9,45.99,413.91,2025-06-15 00:07:00,1140,Customer_1140,Germany,UPI
+INV100902,P006,Webcam,Electronics,7,55.0,385.0,2025-10-19 19:01:00,1185,Customer_1185,USA,Debit Card
+INV100903,P006,Webcam,Electronics,6,55.0,330.0,2025-09-03 15:51:00,1172,Customer_1172,India,Debit Card
+INV100904,P008,Power Bank,Accessories,3,29.99,89.97,2025-08-24 17:57:00,1160,Customer_1160,UK,PayPal
+INV100905,P007,Monitor,Electronics,1,150.0,150.0,2025-06-03 18:46:00,1133,Customer_1133,Germany,UPI
+INV100906,P009,Bluetooth Speaker,Electronics,9,39.99,359.91,2025-04-17 18:43:00,1004,Customer_1004,UK,UPI
+INV100907,P002,Keyboard,Electronics,3,25.5,76.5,2025-01-16 10:24:00,1071,Customer_1071,Germany,Net Banking
+INV100908,P003,USB Cable,Accessories,10,5.99,59.9,2025-07-19 05:38:00,1155,Customer_1155,India,UPI
+INV100909,P006,Webcam,Electronics,1,55.0,55.0,2025-07-31 02:31:00,1069,Customer_1069,USA,UPI
+INV100910,P008,Power Bank,Accessories,5,29.99,149.95,2025-09-26 09:11:00,1055,Customer_1055,India,UPI
+INV100911,P001,Wireless Mouse,Electronics,4,15.99,63.96,2025-08-16 16:01:00,1023,Customer_1023,Canada,Net Banking
+INV100912,P003,USB Cable,Accessories,4,5.99,23.96,2025-09-05 23:55:00,1087,Customer_1087,Australia,UPI
+INV100913,P006,Webcam,Electronics,3,55.0,165.0,2025-02-20 16:43:00,1196,Customer_1196,USA,Debit Card
+INV100914,P001,Wireless Mouse,Electronics,8,15.99,127.92,2025-09-25 03:00:00,1099,Customer_1099,UK,Credit Card
+INV100915,P010,Desk Lamp,Home,2,22.5,45.0,2025-08-28 01:06:00,1085,Customer_1085,Australia,UPI
+INV100916,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-06-09 20:57:00,1194,Customer_1194,USA,UPI
+INV100917,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-05-22 17:20:00,1073,Customer_1073,Canada,Credit Card
+INV100918,P005,Headphones,Electronics,3,45.99,137.97,2025-05-21 03:00:00,1040,Customer_1040,Australia,Net Banking
+INV100919,P009,Bluetooth Speaker,Electronics,2,39.99,79.98,2025-10-05 11:35:00,1052,Customer_1052,UK,UPI
+INV100920,P003,USB Cable,Accessories,5,5.99,29.95,2025-05-06 05:04:00,1146,Customer_1146,UK,Net Banking
+INV100921,P006,Webcam,Electronics,9,55.0,495.0,2025-01-26 04:01:00,1113,Customer_1113,Canada,Credit Card
+INV100922,P002,Keyboard,Electronics,7,25.5,178.5,2025-02-14 13:25:00,1013,Customer_1013,USA,Net Banking
+INV100923,P010,Desk Lamp,Home,8,22.5,180.0,2025-07-02 09:21:00,1157,Customer_1157,USA,Net Banking
+INV100924,P002,Keyboard,Electronics,8,25.5,204.0,2025-03-09 02:52:00,1145,Customer_1145,Germany,PayPal
+INV100925,P002,Keyboard,Electronics,8,25.5,204.0,2025-12-17 20:45:00,1079,Customer_1079,Canada,PayPal
+INV100926,P004,Laptop Stand,Accessories,4,35.0,140.0,2025-11-12 08:58:00,1036,Customer_1036,UK,PayPal
+INV100927,P003,USB Cable,Accessories,6,5.99,35.94,2025-08-21 15:01:00,1083,Customer_1083,India,PayPal
+INV100928,P002,Keyboard,Electronics,6,25.5,153.0,2025-08-25 05:18:00,1122,Customer_1122,UK,Net Banking
+INV100929,P010,Desk Lamp,Home,3,22.5,67.5,2025-02-22 12:52:00,1130,Customer_1130,Germany,Credit Card
+INV100930,P006,Webcam,Electronics,9,55.0,495.0,2025-02-06 09:34:00,1166,Customer_1166,Canada,PayPal
+INV100931,P010,Desk Lamp,Home,7,22.5,157.5,2025-11-14 07:35:00,1061,Customer_1061,USA,PayPal
+INV100932,P007,Monitor,Electronics,2,150.0,300.0,2025-04-17 22:37:00,1087,Customer_1087,Canada,PayPal
+INV100933,P010,Desk Lamp,Home,6,22.5,135.0,2025-12-22 07:11:00,1139,Customer_1139,Germany,Credit Card
+INV100934,P010,Desk Lamp,Home,8,22.5,180.0,2025-10-31 19:29:00,1029,Customer_1029,UK,Net Banking
+INV100935,P002,Keyboard,Electronics,8,25.5,204.0,2025-06-07 12:04:00,1045,Customer_1045,Australia,Credit Card
+INV100936,P010,Desk Lamp,Home,7,22.5,157.5,2025-09-11 20:42:00,1083,Customer_1083,India,Credit Card
+INV100937,P004,Laptop Stand,Accessories,3,35.0,105.0,2025-11-22 00:48:00,1148,Customer_1148,USA,Debit Card
+INV100938,P008,Power Bank,Accessories,9,29.99,269.91,2025-07-19 19:36:00,1074,Customer_1074,Canada,Debit Card
+INV100939,P004,Laptop Stand,Accessories,6,35.0,210.0,2025-10-19 21:19:00,1076,Customer_1076,Canada,UPI
+INV100940,P002,Keyboard,Electronics,10,25.5,255.0,2025-11-10 16:25:00,1002,Customer_1002,USA,UPI
+INV100941,P001,Wireless Mouse,Electronics,6,15.99,95.94,2025-01-28 00:45:00,1140,Customer_1140,Australia,UPI
+INV100942,P002,Keyboard,Electronics,5,25.5,127.5,2025-05-01 13:44:00,1007,Customer_1007,Australia,PayPal
+INV100943,P006,Webcam,Electronics,7,55.0,385.0,2025-07-15 13:34:00,1103,Customer_1103,USA,Debit Card
+INV100944,P008,Power Bank,Accessories,3,29.99,89.97,2025-10-12 12:53:00,1048,Customer_1048,UK,PayPal
+INV100945,P003,USB Cable,Accessories,5,5.99,29.95,2025-03-06 04:00:00,1171,Customer_1171,India,Credit Card
+INV100946,P003,USB Cable,Accessories,8,5.99,47.92,2025-08-12 04:05:00,1168,Customer_1168,USA,PayPal
+INV100947,P008,Power Bank,Accessories,10,29.99,299.9,2025-11-16 05:29:00,1108,Customer_1108,Australia,PayPal
+INV100948,P009,Bluetooth Speaker,Electronics,8,39.99,319.92,2025-07-01 07:11:00,1098,Customer_1098,Canada,Net Banking
+INV100949,P001,Wireless Mouse,Electronics,10,15.99,159.9,2025-05-02 22:32:00,1127,Customer_1127,UK,PayPal
+INV100950,P009,Bluetooth Speaker,Electronics,10,39.99,399.9,2025-01-18 01:36:00,1093,Customer_1093,Canada,UPI
+INV100951,P002,Keyboard,Electronics,10,25.5,255.0,2025-12-20 02:09:00,1123,Customer_1123,Germany,Net Banking
+INV100952,P005,Headphones,Electronics,8,45.99,367.92,2025-02-10 16:56:00,1132,Customer_1132,Australia,Credit Card
+INV100953,P004,Laptop Stand,Accessories,8,35.0,280.0,2025-12-06 21:04:00,1161,Customer_1161,Germany,Net Banking
+INV100954,P010,Desk Lamp,Home,5,22.5,112.5,2025-01-28 10:34:00,1156,Customer_1156,India,PayPal
+INV100955,P008,Power Bank,Accessories,9,29.99,269.91,2025-10-21 23:21:00,1120,Customer_1120,Canada,UPI
+INV100956,P005,Headphones,Electronics,5,45.99,229.95,2025-01-19 22:59:00,1042,Customer_1042,Australia,UPI
+INV100957,P010,Desk Lamp,Home,5,22.5,112.5,2025-11-19 15:37:00,1015,Customer_1015,USA,Net Banking
+INV100958,P001,Wireless Mouse,Electronics,5,15.99,79.95,2025-11-16 00:18:00,1188,Customer_1188,Canada,Credit Card
+INV100959,P003,USB Cable,Accessories,9,5.99,53.91,2025-05-23 08:08:00,1019,Customer_1019,Australia,UPI
+INV100960,P005,Headphones,Electronics,5,45.99,229.95,2025-02-27 19:11:00,1003,Customer_1003,Australia,Debit Card
+INV100961,P008,Power Bank,Accessories,6,29.99,179.94,2025-05-14 22:15:00,1044,Customer_1044,Canada,Debit Card
+INV100962,P009,Bluetooth Speaker,Electronics,1,39.99,39.99,2025-02-13 04:38:00,1087,Customer_1087,USA,PayPal
+INV100963,P007,Monitor,Electronics,7,150.0,1050.0,2025-12-05 14:46:00,1060,Customer_1060,Germany,Debit Card
+INV100964,P004,Laptop Stand,Accessories,10,35.0,350.0,2025-06-26 01:41:00,1187,Customer_1187,UK,Credit Card
+INV100965,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-07-24 15:19:00,1118,Customer_1118,Canada,Net Banking
+INV100966,P004,Laptop Stand,Accessories,7,35.0,245.0,2025-12-28 12:30:00,1174,Customer_1174,UK,Debit Card
+INV100967,P009,Bluetooth Speaker,Electronics,7,39.99,279.93,2025-05-28 14:24:00,1003,Customer_1003,Germany,UPI
+INV100968,P009,Bluetooth Speaker,Electronics,1,39.99,39.99,2025-09-30 20:22:00,1024,Customer_1024,Canada,Net Banking
+INV100969,P005,Headphones,Electronics,6,45.99,275.94,2025-05-17 03:16:00,1069,Customer_1069,Germany,Net Banking
+INV100970,P007,Monitor,Electronics,8,150.0,1200.0,2025-12-12 23:15:00,1197,Customer_1197,Germany,Net Banking
+INV100971,P004,Laptop Stand,Accessories,9,35.0,315.0,2025-12-13 22:11:00,1086,Customer_1086,UK,Net Banking
+INV100972,P001,Wireless Mouse,Electronics,1,15.99,15.99,2025-01-07 13:06:00,1017,Customer_1017,Australia,Credit Card
+INV100973,P008,Power Bank,Accessories,6,29.99,179.94,2025-05-26 08:12:00,1056,Customer_1056,India,Credit Card
+INV100974,P010,Desk Lamp,Home,2,22.5,45.0,2025-11-01 21:57:00,1014,Customer_1014,USA,Net Banking
+INV100975,P002,Keyboard,Electronics,2,25.5,51.0,2025-11-06 04:24:00,1022,Customer_1022,Germany,Net Banking
+INV100976,P003,USB Cable,Accessories,2,5.99,11.98,2025-04-05 08:18:00,1178,Customer_1178,Canada,Credit Card
+INV100977,P008,Power Bank,Accessories,5,29.99,149.95,2025-08-07 22:57:00,1196,Customer_1196,Germany,UPI
+INV100978,P005,Headphones,Electronics,3,45.99,137.97,2025-02-07 08:49:00,1199,Customer_1199,India,PayPal
+INV100979,P007,Monitor,Electronics,6,150.0,900.0,2025-05-13 08:11:00,1015,Customer_1015,Canada,Credit Card
+INV100980,P008,Power Bank,Accessories,4,29.99,119.96,2025-07-21 05:41:00,1156,Customer_1156,Canada,Credit Card
+INV100981,P003,USB Cable,Accessories,9,5.99,53.91,2025-08-09 06:39:00,1196,Customer_1196,Germany,Credit Card
+INV100982,P008,Power Bank,Accessories,5,29.99,149.95,2025-01-18 02:04:00,1026,Customer_1026,Australia,UPI
+INV100983,P008,Power Bank,Accessories,1,29.99,29.99,2025-03-18 20:40:00,1127,Customer_1127,India,Credit Card
+INV100984,P007,Monitor,Electronics,5,150.0,750.0,2025-12-25 10:57:00,1038,Customer_1038,Canada,Net Banking
+INV100985,P001,Wireless Mouse,Electronics,9,15.99,143.91,2025-09-09 15:27:00,1181,Customer_1181,Canada,Credit Card
+INV100986,P009,Bluetooth Speaker,Electronics,4,39.99,159.96,2025-07-16 22:52:00,1000,Customer_1000,Canada,Credit Card
+INV100987,P010,Desk Lamp,Home,9,22.5,202.5,2025-06-20 21:19:00,1091,Customer_1091,Canada,Credit Card
+INV100988,P002,Keyboard,Electronics,6,25.5,153.0,2025-06-24 02:53:00,1136,Customer_1136,Canada,UPI
+INV100989,P004,Laptop Stand,Accessories,3,35.0,105.0,2025-01-21 12:42:00,1141,Customer_1141,USA,UPI
+INV100990,P007,Monitor,Electronics,2,150.0,300.0,2025-12-19 11:31:00,1161,Customer_1161,India,PayPal
+INV100991,P004,Laptop Stand,Accessories,3,35.0,105.0,2025-04-09 00:46:00,1009,Customer_1009,Australia,Debit Card
+INV100992,P008,Power Bank,Accessories,7,29.99,209.93,2025-10-04 20:19:00,1016,Customer_1016,Canada,Net Banking
+INV100993,P008,Power Bank,Accessories,1,29.99,29.99,2025-06-23 01:21:00,1009,Customer_1009,Germany,Credit Card
+INV100994,P007,Monitor,Electronics,2,150.0,300.0,2025-12-01 21:33:00,1054,Customer_1054,Canada,Net Banking
+INV100995,P003,USB Cable,Accessories,10,5.99,59.9,2025-02-06 01:47:00,1059,Customer_1059,USA,PayPal
+INV100996,P001,Wireless Mouse,Electronics,8,15.99,127.92,2025-01-24 07:44:00,1158,Customer_1158,Germany,Debit Card
+INV100997,P001,Wireless Mouse,Electronics,3,15.99,47.97,2025-01-26 09:52:00,1161,Customer_1161,India,PayPal
+INV100998,P010,Desk Lamp,Home,3,22.5,67.5,2025-02-02 03:07:00,1151,Customer_1151,Canada,Net Banking
+INV100999,P010,Desk Lamp,Home,4,22.5,90.0,2025-04-14 13:21:00,1016,Customer_1016,Germany,PayPal
+INV101000,P006,Webcam,Electronics,2,55.0,110.0,2025-10-22 17:08:00,1175,Customer_1175,UK,Debit Card
